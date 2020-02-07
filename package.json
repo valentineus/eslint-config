@@ -1,0 +1,13 @@
+{
+  "name": "@valentineus/eslint-config",
+  "version": "0.0.1",
+  "description": "Personal ESLint configuration",
+  "main": "index.js",
+  "repository": "git@code.valentineus.link:eslint-config.git",
+  "author": "Valentin Popov <info@valentineus.link>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
