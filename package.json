@@ -9,5 +9,8 @@
   "private": false,
   "scripts": {},
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.5"
+  }
 }
