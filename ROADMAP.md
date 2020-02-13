@@ -150,7 +150,7 @@
 - [X] "no-native-reassign"
 - [ ] "no-negated-condition"
 - [X] "no-negated-in-lhs"
-- [ ] "no-nested-ternary"
+- [X] "no-nested-ternary"
 - [ ] "no-new"
 - [ ] "no-new-func"
 - [ ] "no-new-object"

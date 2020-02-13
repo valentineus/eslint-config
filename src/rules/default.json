@@ -227,6 +227,9 @@
   "no-negated-in-lhs": [
     "off"
   ],
+  "no-nested-ternary": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],
