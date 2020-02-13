@@ -216,7 +216,7 @@
 - [ ] "no-useless-escape"
 - [ ] "no-useless-rename"
 - [ ] "no-useless-return"
-- [ ] "no-var"
+- [X] "no-var"
 - [ ] "no-void"
 - [ ] "no-warning-comments"
 - [ ] "no-whitespace-before-property"
