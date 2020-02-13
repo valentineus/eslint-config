@@ -77,7 +77,7 @@
 - [X] "newline-after-var"
 - [X] "newline-before-return"
 - [ ] "newline-per-chained-call"
-- [ ] "no-alert"
+- [X] "no-alert"
 - [ ] "no-array-constructor"
 - [ ] "no-async-promise-executor"
 - [ ] "no-await-in-loop"

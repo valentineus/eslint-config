@@ -54,6 +54,9 @@
   "newline-before-return": [
     "off"
   ],
+  "no-alert": [
+    "warn"
+  ],
   "no-catch-shadow": [
     "off"
   ],
