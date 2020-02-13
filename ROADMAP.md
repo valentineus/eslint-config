@@ -245,7 +245,7 @@
 - [ ] "prefer-rest-params"
 - [ ] "prefer-spread"
 - [ ] "prefer-template"
-- [ ] "quote-props"
+- [X] "quote-props"
 - [ ] "quotes"
 - [ ] "radix"
 - [ ] "require-atomic-updates"

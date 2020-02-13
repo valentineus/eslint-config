@@ -63,6 +63,15 @@
   "prefer-reflect": [
     "off"
   ],
+  "quote-props": [
+    "error",
+    "consistent-as-needed",
+    {
+      "keywords": true,
+      "numbers": true,
+      "unnecessary": true
+    }
+  ],
   "require-jsdoc": [
     "off"
   ],
