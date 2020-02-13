@@ -328,7 +328,7 @@
 
 - [ ] "adjacent-overload-signatures"
 - [ ] "array-type"
-- [ ] "await-thenable"
+- [X] "await-thenable"
 - [ ] "ban-ts-comment"
 - [ ] "ban-ts-ignore"
 - [ ] "ban-types"

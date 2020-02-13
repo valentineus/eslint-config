@@ -1,4 +1,7 @@
 {
+  "@typescript-eslint/await-thenable": [
+    "error"
+  ],
   "@typescript-eslint/indent": [
     "error",
     "tab",
