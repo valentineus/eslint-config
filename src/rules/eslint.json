@@ -32,5 +32,8 @@
     {
       "allowIndentationTabs": true
     }
+  ],
+  "prefer-reflect": [
+    "off"
   ]
 }

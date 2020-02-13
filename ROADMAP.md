@@ -240,7 +240,7 @@
 - [ ] "prefer-numeric-literals"
 - [ ] "prefer-object-spread"
 - [ ] "prefer-promise-reject-errors"
-- [ ] "prefer-reflect"
+- [X] "prefer-reflect"
 - [ ] "prefer-regex-literals"
 - [ ] "prefer-rest-params"
 - [ ] "prefer-spread"
