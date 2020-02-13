@@ -409,7 +409,7 @@
 - [X] "strict-boolean-expressions"
 - [ ] "switch-exhaustiveness-check"
 - [ ] "triple-slash-reference"
-- [ ] "type-annotation-spacing"
+- [X] "type-annotation-spacing"
 - [ ] "typedef"
 - [ ] "unbound-method"
 - [ ] "unified-signatures"
