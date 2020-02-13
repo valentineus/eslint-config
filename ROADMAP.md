@@ -249,7 +249,7 @@
 - [X] "quotes"
 - [ ] "radix"
 - [ ] "require-atomic-updates"
-- [ ] "require-await"
+- [X] "require-await"
 - [X] "require-jsdoc"
 - [ ] "require-unicode-regexp"
 - [ ] "require-yield"

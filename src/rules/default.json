@@ -315,6 +315,9 @@
       "avoidEscape": false
     }
   ],
+  "require-await": [
+    "warn"
+  ],
   "require-jsdoc": [
     "off"
   ],
