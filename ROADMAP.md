@@ -104,7 +104,7 @@
 - [ ] "no-dupe-else-if"
 - [ ] "no-dupe-keys"
 - [ ] "no-duplicate-case"
-- [ ] "no-duplicate-imports"
+- [X] "no-duplicate-imports"
 - [X] "no-else-return"
 - [X] "no-empty"
 - [ ] "no-empty-character-class"
