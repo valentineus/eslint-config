@@ -117,6 +117,20 @@
       "exceptAfterSingleLine": false
     }
   ],
+  "max-len": [
+    "warn",
+    {
+      "code": 180,
+      "comments": 72,
+      "ignoreComments": false,
+      "ignoreRegExpLiterals": false,
+      "ignoreStrings": true,
+      "ignoreTemplateLiterals": true,
+      "ignoreTrailingComments": false,
+      "ignoreUrls": true,
+      "tabWidth": 4
+    }
+  ],
   "max-lines": [
     "off"
   ],

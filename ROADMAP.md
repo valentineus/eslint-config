@@ -63,7 +63,7 @@
 - [X] "lines-between-class-members"
 - [ ] "max-classes-per-file"
 - [ ] "max-depth"
-- [ ] "max-len"
+- [X] "max-len"
 - [X] "max-lines"
 - [ ] "max-lines-per-function"
 - [ ] "max-nested-callbacks"
