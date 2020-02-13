@@ -18,7 +18,7 @@
 - [ ] "capitalized-comments"
 - [ ] "class-methods-use-this"
 - [X] "comma-dangle"
-- [ ] "comma-spacing"
+- [X] "comma-spacing"
 - [ ] "comma-style"
 - [ ] "complexity"
 - [ ] "computed-property-spacing"

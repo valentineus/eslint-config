@@ -21,6 +21,13 @@
     "error",
     "always-multiline"
   ],
+  "comma-spacing": [
+    "error",
+    {
+      "after": true,
+      "before": false
+    }
+  ],
   "eol-last": [
     "error",
     "always"
