@@ -64,7 +64,7 @@
 - [ ] "max-classes-per-file"
 - [ ] "max-depth"
 - [ ] "max-len"
-- [ ] "max-lines"
+- [X] "max-lines"
 - [ ] "max-lines-per-function"
 - [ ] "max-nested-callbacks"
 - [ ] "max-params"
