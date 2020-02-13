@@ -25,7 +25,7 @@
 - [ ] "consistent-return"
 - [ ] "consistent-this"
 - [ ] "constructor-super"
-- [ ] "curly"
+- [X] "curly"
 - [ ] "default-case"
 - [ ] "default-case-last"
 - [ ] "default-param-last"
