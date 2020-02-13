@@ -276,6 +276,9 @@
       "ignoreEOLComments": false
     }
   ],
+  "no-multi-str": [
+    "error"
+  ],
   "no-multiple-empty-lines": [
     "error",
     {
