@@ -301,7 +301,7 @@
 - [ ] "explicit-module-boundary-types"
 - [ ] "func-call-spacing"
 - [ ] "generic-type-naming"
-- [ ] "indent"
+- [X] "indent"
 - [ ] "interface-name-prefix"
 - [ ] "member-delimiter-style"
 - [ ] "member-naming"
