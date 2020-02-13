@@ -149,7 +149,7 @@
 - [ ] "no-multiple-empty-lines"
 - [X] "no-native-reassign"
 - [ ] "no-negated-condition"
-- [ ] "no-negated-in-lhs"
+- [X] "no-negated-in-lhs"
 - [ ] "no-nested-ternary"
 - [ ] "no-new"
 - [ ] "no-new-func"

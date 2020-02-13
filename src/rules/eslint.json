@@ -21,6 +21,9 @@
   "no-native-reassign": [
     "off"
   ],
+  "no-negated-in-lhs": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {
