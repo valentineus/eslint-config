@@ -106,7 +106,7 @@
 - [ ] "no-duplicate-case"
 - [ ] "no-duplicate-imports"
 - [ ] "no-else-return"
-- [ ] "no-empty"
+- [X] "no-empty"
 - [ ] "no-empty-character-class"
 - [ ] "no-empty-function"
 - [ ] "no-empty-pattern"

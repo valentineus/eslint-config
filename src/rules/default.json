@@ -197,6 +197,12 @@
   "no-debugger": [
     "warn"
   ],
+  "no-empty": [
+    "warn",
+    {
+      "allowEmptyCatch": false
+    }
+  ],
   "no-eval": [
     "error",
     {
