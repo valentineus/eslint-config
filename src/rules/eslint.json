@@ -113,6 +113,10 @@
       "before": false
     }
   ],
+  "semi-style": [
+    "error",
+    "last"
+  ],
   "sort-imports": [
     "error",
     {

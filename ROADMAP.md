@@ -256,7 +256,7 @@
 - [ ] "rest-spread-spacing"
 - [X] "semi"
 - [X] "semi-spacing"
-- [ ] "semi-style"
+- [X] "semi-style"
 - [X] "sort-imports"
 - [X] "sort-keys"
 - [ ] "sort-vars"
