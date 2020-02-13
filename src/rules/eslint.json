@@ -55,7 +55,7 @@
     "off"
   ],
   "no-alert": [
-    "warn"
+    "error"
   ],
   "no-catch-shadow": [
     "off"
