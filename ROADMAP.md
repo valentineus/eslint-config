@@ -286,7 +286,7 @@
 - [ ] "default"
 - [ ] "dynamic-import-chunkname"
 - [ ] "export"
-- [ ] "exports-last"
+- [X] "exports-last"
 - [ ] "extensions"
 - [ ] "first"
 - [ ] "group-exports"
