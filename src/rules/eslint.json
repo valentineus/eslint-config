@@ -64,6 +64,14 @@
       "allowIndentationTabs": true
     }
   ],
+  "object-curly-spacing": [
+    "error",
+    "always",
+    {
+      "arraysInObjects": false,
+      "objectsInObjects": false
+    }
+  ],
   "one-var": [
     "error",
     "never"

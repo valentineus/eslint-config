@@ -223,7 +223,7 @@
 - [ ] "no-with"
 - [ ] "nonblock-statement-body-position"
 - [ ] "object-curly-newline"
-- [ ] "object-curly-spacing"
+- [X] "object-curly-spacing"
 - [ ] "object-property-newline"
 - [ ] "object-shorthand"
 - [X] "one-var"
