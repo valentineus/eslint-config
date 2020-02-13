@@ -19,7 +19,7 @@
 - [X] "class-methods-use-this"
 - [X] "comma-dangle"
 - [X] "comma-spacing"
-- [ ] "comma-style"
+- [X] "comma-style"
 - [ ] "complexity"
 - [ ] "computed-property-spacing"
 - [ ] "consistent-return"

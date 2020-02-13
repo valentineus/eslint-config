@@ -48,6 +48,13 @@
       "before": false
     }
   ],
+  "comma-style": [
+    "error",
+    "last",
+    {
+      "exceptions": {}
+    }
+  ],
   "dot-notation": [
     "error",
     {
