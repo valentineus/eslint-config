@@ -355,7 +355,7 @@
 - [ ] "prefer-regexp-exec"
 - [ ] "prefer-string-starts-ends-with"
 - [ ] "promise-function-async"
-- [ ] "quotes"
+- [X] "quotes"
 - [ ] "require-array-sort-compare"
 - [ ] "require-await"
 - [ ] "restrict-plus-operands"

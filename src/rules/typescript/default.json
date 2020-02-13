@@ -1,1 +1,13 @@
-{}
+{
+  "@typescript-eslint/quotes": [
+    "error",
+    "double",
+    {
+      "allowTemplateLiterals": false,
+      "avoidEscape": false
+    }
+  ],
+  "quotes": [
+    "off"
+  ]
+}
