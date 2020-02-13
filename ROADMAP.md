@@ -55,7 +55,7 @@
 - [ ] "init-declarations"
 - [ ] "jsx-quotes"
 - [X] "key-spacing"
-- [ ] "keyword-spacing"
+- [X] "keyword-spacing"
 - [ ] "line-comment-position"
 - [X] "linebreak-style"
 - [ ] "lines-around-comment"
