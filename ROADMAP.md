@@ -400,7 +400,7 @@
 - [ ] "promise-function-async"
 - [X] "quotes"
 - [ ] "require-array-sort-compare"
-- [ ] "require-await"
+- [X] "require-await"
 - [ ] "restrict-plus-operands"
 - [ ] "restrict-template-expressions"
 - [ ] "return-await"

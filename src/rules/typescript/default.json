@@ -54,6 +54,9 @@
       "avoidEscape": false
     }
   ],
+  "@typescript-eslint/require-await": [
+    "warn"
+  ],
   "@typescript-eslint/semi": [
     "error",
     "always",
@@ -73,6 +76,9 @@
     "off"
   ],
   "quotes": [
+    "off"
+  ],
+  "require-await": [
     "off"
   ],
   "semi": [
