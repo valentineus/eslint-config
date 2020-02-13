@@ -155,6 +155,15 @@
   "max-lines": [
     "off"
   ],
+  "max-lines-per-function": [
+    "warn",
+    {
+      "IIFEs": false,
+      "max": 128,
+      "skipBlankLines": true,
+      "skipComments": true
+    }
+  ],
   "max-statements": [
     "off"
   ],

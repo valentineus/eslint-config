@@ -65,7 +65,7 @@
 - [ ] "max-depth"
 - [X] "max-len"
 - [X] "max-lines"
-- [ ] "max-lines-per-function"
+- [X] "max-lines-per-function"
 - [ ] "max-nested-callbacks"
 - [ ] "max-params"
 - [X] "max-statements"
