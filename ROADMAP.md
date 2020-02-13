@@ -14,7 +14,7 @@
 - [ ] "block-spacing"
 - [X] "brace-style"
 - [ ] "callback-return"
-- [ ] "camelcase"
+- [X] "camelcase"
 - [ ] "capitalized-comments"
 - [X] "class-methods-use-this"
 - [X] "comma-dangle"

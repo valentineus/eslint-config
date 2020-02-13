@@ -17,6 +17,17 @@
       "allowSingleLine": false
     }
   ],
+  "camelcase": [
+    "error",
+    {
+      "allow": [
+        "^UNSAFE_"
+      ],
+      "ignoreDestructuring": true,
+      "ignoreImports": false,
+      "properties": "always"
+    }
+  ],
   "class-methods-use-this": [
     "warn"
   ],
