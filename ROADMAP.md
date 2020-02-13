@@ -274,7 +274,7 @@
 - [ ] "unicode-bom"
 - [ ] "use-isnan"
 - [X] "valid-jsdoc"
-- [ ] "valid-typeof"
+- [X] "valid-typeof"
 - [ ] "vars-on-top"
 - [ ] "wrap-iife"
 - [ ] "wrap-regex"

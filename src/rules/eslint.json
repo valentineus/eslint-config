@@ -192,5 +192,11 @@
   ],
   "valid-jsdoc": [
     "off"
+  ],
+  "valid-typeof": [
+    "error",
+    {
+      "requireStringLiterals": true
+    }
   ]
 }
