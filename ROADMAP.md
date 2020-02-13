@@ -319,7 +319,7 @@
 - [ ] "no-unresolved"
 - [ ] "no-unused-modules"
 - [ ] "no-useless-path-segments"
-- [ ] "no-webpack-loader-syntax"
+- [X] "no-webpack-loader-syntax"
 - [ ] "order"
 - [ ] "prefer-default-export"
 - [ ] "unambiguous"

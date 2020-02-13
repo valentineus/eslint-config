@@ -4,5 +4,8 @@
   ],
   "import/first": [
     "error"
+  ],
+  "import/no-webpack-loader-syntax": [
+    "error"
   ]
 }
