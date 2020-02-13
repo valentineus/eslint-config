@@ -60,6 +60,13 @@
       "ignoreReadonlyClassProperties": true
     }
   ],
+  "@typescript-eslint/no-namespace": [
+    "error",
+    {
+      "allowDeclarations": true,
+      "allowDefinitionFiles": true
+    }
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",

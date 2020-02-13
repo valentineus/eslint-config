@@ -367,7 +367,7 @@
 - [X] "no-magic-numbers"
 - [ ] "no-misused-new"
 - [ ] "no-misused-promises"
-- [ ] "no-namespace"
+- [X] "no-namespace"
 - [ ] "no-non-null-asserted-optional-chain"
 - [ ] "no-non-null-assertion"
 - [ ] "no-parameter-properties"
