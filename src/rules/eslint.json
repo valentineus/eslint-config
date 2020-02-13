@@ -37,6 +37,14 @@
   "indent-legacy": [
     "off"
   ],
+  "key-spacing": [
+    "error",
+    {
+      "afterColon": true,
+      "beforeColon": false,
+      "mode": "strict"
+    }
+  ],
   "lines-around-directive": [
     "off"
   ],

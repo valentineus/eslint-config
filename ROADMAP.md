@@ -54,7 +54,7 @@
 - [X] "indent-legacy"
 - [ ] "init-declarations"
 - [ ] "jsx-quotes"
-- [ ] "key-spacing"
+- [X] "key-spacing"
 - [ ] "keyword-spacing"
 - [ ] "line-comment-position"
 - [ ] "linebreak-style"
