@@ -354,7 +354,7 @@
 - [ ] "no-dupe-class-members"
 - [ ] "no-dynamic-delete"
 - [ ] "no-empty-function"
-- [ ] "no-empty-interface"
+- [X] "no-empty-interface"
 - [ ] "no-explicit-any"
 - [ ] "no-extra-non-null-assertion"
 - [ ] "no-extra-parens"

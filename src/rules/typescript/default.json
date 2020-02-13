@@ -33,6 +33,12 @@
       "prefixWithI": "always"
     }
   ],
+  "@typescript-eslint/no-empty-interface": [
+    "warn",
+    {
+      "allowSingleExtends": false
+    }
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",
