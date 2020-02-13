@@ -87,6 +87,9 @@
       "vars": "all"
     }
   ],
+  "@typescript-eslint/no-unused-vars-experimental": [
+    "error"
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",

@@ -383,7 +383,7 @@
 - [X] "no-untyped-public-signature"
 - [ ] "no-unused-expressions"
 - [X] "no-unused-vars"
-- [ ] "no-unused-vars-experimental"
+- [X] "no-unused-vars-experimental"
 - [ ] "no-use-before-define"
 - [ ] "no-useless-constructor"
 - [ ] "no-var-requires"
