@@ -89,6 +89,10 @@
   "lines-around-directive": [
     "off"
   ],
+  "multiline-comment-style": [
+    "error",
+    "starred-block"
+  ],
   "new-cap": [
     "error",
     {

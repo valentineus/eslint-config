@@ -70,7 +70,7 @@
 - [ ] "max-params"
 - [ ] "max-statements"
 - [ ] "max-statements-per-line"
-- [ ] "multiline-comment-style"
+- [X] "multiline-comment-style"
 - [ ] "multiline-ternary"
 - [X] "new-cap"
 - [ ] "new-parens"
