@@ -224,7 +224,7 @@
 - [ ] "nonblock-statement-body-position"
 - [X] "object-curly-newline"
 - [X] "object-curly-spacing"
-- [ ] "object-property-newline"
+- [X] "object-property-newline"
 - [ ] "object-shorthand"
 - [X] "one-var"
 - [ ] "one-var-declaration-per-line"
