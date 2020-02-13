@@ -208,7 +208,7 @@
 - [X] "no-unused-vars"
 - [ ] "no-use-before-define"
 - [ ] "no-useless-backreference"
-- [ ] "no-useless-call"
+- [X] "no-useless-call"
 - [ ] "no-useless-catch"
 - [X] "no-useless-computed-key"
 - [ ] "no-useless-concat"

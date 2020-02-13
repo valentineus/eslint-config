@@ -368,6 +368,9 @@
       "vars": "all"
     }
   ],
+  "no-useless-call": [
+    "error"
+  ],
   "no-useless-computed-key": [
     "error",
     {
