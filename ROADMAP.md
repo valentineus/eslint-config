@@ -38,7 +38,7 @@
 - [ ] "func-name-matching"
 - [ ] "func-names"
 - [ ] "func-style"
-- [ ] "function-call-argument-newline"
+- [X] "function-call-argument-newline"
 - [ ] "function-paren-newline"
 - [ ] "generator-star-spacing"
 - [ ] "getter-return"
