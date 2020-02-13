@@ -384,6 +384,10 @@
       "allowAllPropertiesOnSameLine": false
     }
   ],
+  "object-shorthand": [
+    "error",
+    "consistent-as-needed"
+  ],
   "one-var": [
     "error",
     "never"

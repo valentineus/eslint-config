@@ -225,7 +225,7 @@
 - [X] "object-curly-newline"
 - [X] "object-curly-spacing"
 - [X] "object-property-newline"
-- [ ] "object-shorthand"
+- [X] "object-shorthand"
 - [X] "one-var"
 - [ ] "one-var-declaration-per-line"
 - [ ] "operator-assignment"
