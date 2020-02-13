@@ -31,7 +31,7 @@
 - [ ] "default-param-last"
 - [ ] "dot-location"
 - [ ] "dot-notation"
-- [ ] "eol-last"
+- [X] "eol-last"
 - [ ] "eqeqeq"
 - [ ] "for-direction"
 - [ ] "func-call-spacing"
