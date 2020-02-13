@@ -61,6 +61,14 @@
       "omitLastInOneLineBlock": false
     }
   ],
+  "@typescript-eslint/strict-boolean-expressions": [
+    "error",
+    {
+      "allowNullable": false,
+      "allowSafe": false,
+      "ignoreRhs": false
+    }
+  ],
   "indent": [
     "off"
   ],
