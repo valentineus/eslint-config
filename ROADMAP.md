@@ -355,7 +355,7 @@
 - [ ] "no-dynamic-delete"
 - [ ] "no-empty-function"
 - [X] "no-empty-interface"
-- [ ] "no-explicit-any"
+- [X] "no-explicit-any"
 - [ ] "no-extra-non-null-assertion"
 - [ ] "no-extra-parens"
 - [ ] "no-extra-semi"
