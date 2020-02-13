@@ -244,7 +244,7 @@
 - [ ] "prefer-regex-literals"
 - [X] "prefer-rest-params"
 - [X] "prefer-spread"
-- [ ] "prefer-template"
+- [X] "prefer-template"
 - [X] "quote-props"
 - [X] "quotes"
 - [ ] "radix"

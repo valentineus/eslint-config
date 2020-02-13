@@ -407,6 +407,9 @@
   "prefer-spread": [
     "error"
   ],
+  "prefer-template": [
+    "error"
+  ],
   "quote-props": [
     "error",
     "consistent-as-needed",
