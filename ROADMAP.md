@@ -205,7 +205,7 @@
 - [ ] "no-unsafe-negation"
 - [ ] "no-unused-expressions"
 - [ ] "no-unused-labels"
-- [ ] "no-unused-vars"
+- [X] "no-unused-vars"
 - [ ] "no-use-before-define"
 - [ ] "no-useless-backreference"
 - [ ] "no-useless-call"

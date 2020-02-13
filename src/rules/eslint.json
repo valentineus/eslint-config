@@ -105,6 +105,15 @@
       "allowIndentationTabs": true
     }
   ],
+  "no-unused-vars": [
+    "error",
+    {
+      "args": "after-used",
+      "caughtErrors": "all",
+      "ignoreRestSiblings": false,
+      "vars": "all"
+    }
+  ],
   "object-curly-newline": [
     "error",
     {
