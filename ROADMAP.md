@@ -380,7 +380,7 @@
 - [ ] "no-unnecessary-qualifier"
 - [ ] "no-unnecessary-type-arguments"
 - [ ] "no-unnecessary-type-assertion"
-- [ ] "no-untyped-public-signature"
+- [X] "no-untyped-public-signature"
 - [ ] "no-unused-expressions"
 - [ ] "no-unused-vars"
 - [ ] "no-unused-vars-experimental"

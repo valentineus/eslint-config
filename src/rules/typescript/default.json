@@ -67,6 +67,14 @@
       "allowDefinitionFiles": true
     }
   ],
+  "@typescript-eslint/no-untyped-public-signature": [
+    "error",
+    {
+      "ignoredMethods": [
+        "constructor"
+      ]
+    }
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",
