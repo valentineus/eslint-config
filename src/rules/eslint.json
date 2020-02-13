@@ -3,6 +3,9 @@
     "error",
     "always"
   ],
+  "indent-legacy": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {

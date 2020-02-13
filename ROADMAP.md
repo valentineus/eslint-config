@@ -51,7 +51,7 @@
 - [ ] "id-match"
 - [ ] "implicit-arrow-linebreak"
 - [ ] "indent"
-- [ ] "indent-legacy"
+- [X] "indent-legacy"
 - [ ] "init-declarations"
 - [ ] "jsx-quotes"
 - [ ] "key-spacing"
