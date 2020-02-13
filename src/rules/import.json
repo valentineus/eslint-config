@@ -1,5 +1,8 @@
 {
   "import/exports-last": [
     "error"
+  ],
+  "import/first": [
+    "error"
   ]
 }

@@ -288,7 +288,7 @@
 - [ ] "export"
 - [X] "exports-last"
 - [ ] "extensions"
-- [ ] "first"
+- [X] "first"
 - [ ] "group-exports"
 - [ ] "imports-first"
 - [ ] "max-dependencies"
