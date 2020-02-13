@@ -273,7 +273,7 @@
 - [ ] "template-tag-spacing"
 - [ ] "unicode-bom"
 - [ ] "use-isnan"
-- [ ] "valid-jsdoc"
+- [X] "valid-jsdoc"
 - [ ] "valid-typeof"
 - [ ] "vars-on-top"
 - [ ] "wrap-iife"
