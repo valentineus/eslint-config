@@ -113,7 +113,7 @@
 - [ ] "no-eq-null"
 - [X] "no-eval"
 - [ ] "no-ex-assign"
-- [ ] "no-extend-native"
+- [X] "no-extend-native"
 - [ ] "no-extra-bind"
 - [ ] "no-extra-boolean-cast"
 - [ ] "no-extra-label"

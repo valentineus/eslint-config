@@ -236,6 +236,9 @@
       "allowIndirect": false
     }
   ],
+  "no-extend-native": [
+    "error"
+  ],
   "no-extra-semi": [
     "error"
   ],
