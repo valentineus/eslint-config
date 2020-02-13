@@ -385,7 +385,7 @@
 - [X] "no-unused-vars"
 - [X] "no-unused-vars-experimental"
 - [ ] "no-use-before-define"
-- [ ] "no-useless-constructor"
+- [X] "no-useless-constructor"
 - [ ] "no-var-requires"
 - [ ] "prefer-as-const"
 - [ ] "prefer-for-of"
