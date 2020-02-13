@@ -72,10 +72,7 @@
     "off"
   ],
   "no-console": [
-    "warn",
-    {
-      "allow": []
-    }
+    "warn"
   ],
   "no-debugger": [
     "error"
