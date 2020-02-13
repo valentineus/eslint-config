@@ -345,7 +345,7 @@
 - [ ] "func-call-spacing"
 - [ ] "generic-type-naming"
 - [X] "indent"
-- [ ] "interface-name-prefix"
+- [X] "interface-name-prefix"
 - [ ] "member-delimiter-style"
 - [ ] "member-naming"
 - [ ] "member-ordering"

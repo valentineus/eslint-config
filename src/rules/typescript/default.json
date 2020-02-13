@@ -26,6 +26,13 @@
       "outerIIFEBody": 1
     }
   ],
+  "@typescript-eslint/interface-name-prefix": [
+    "error",
+    {
+      "allowUnderscorePrefix": false,
+      "prefixWithI": "always"
+    }
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",
