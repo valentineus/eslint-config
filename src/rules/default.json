@@ -195,7 +195,7 @@
     "warn"
   ],
   "no-debugger": [
-    "error"
+    "warn"
   ],
   "no-eval": [
     "error",
