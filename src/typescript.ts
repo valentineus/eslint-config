@@ -2,7 +2,13 @@ import rDefault from "./rules/typescript/default.json";
 import rOverrides from "./rules/typescript/overrides.json";
 
 module.exports = {
-	"extends": ["./javascript"],
+	"extends": [
+		"./javascript",
+		"plugin:@typescript-eslint/eslint-recommended",
+		"plugin:@typescript-eslint/recommended",
+		"plugin:@typescript-eslint/recommended-requiring-type-checking",
+		"plugin:import/typescript",
+	],
 	"overrides": [
 		{
 			files: [
@@ -13,9 +19,9 @@ module.exports = {
 		},
 	],
 	"parser": "@typescript-eslint/parser",
-	"parserOptions": {
-		tsconfigRootDir: __dirname,
-	},
-	"plugins": ["@typescript-eslint"],
+	"plugins": [
+		"@typescript-eslint",
+		"import",
+	],
 	"rules": { ...rDefault },
 };
