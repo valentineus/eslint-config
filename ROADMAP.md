@@ -75,7 +75,7 @@
 - [ ] "new-cap"
 - [ ] "new-parens"
 - [X] "newline-after-var"
-- [ ] "newline-before-return"
+- [X] "newline-before-return"
 - [ ] "newline-per-chained-call"
 - [ ] "no-alert"
 - [ ] "no-array-constructor"
