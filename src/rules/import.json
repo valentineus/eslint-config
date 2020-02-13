@@ -5,6 +5,12 @@
   "import/first": [
     "error"
   ],
+  "import/newline-after-import": [
+    "error",
+    {
+      "count": 1
+    }
+  ],
   "import/no-webpack-loader-syntax": [
     "error"
   ]

@@ -293,7 +293,7 @@
 - [ ] "max-dependencies"
 - [ ] "named"
 - [ ] "namespace"
-- [ ] "newline-after-import"
+- [X] "newline-after-import"
 - [ ] "no-absolute-path"
 - [ ] "no-amd"
 - [ ] "no-anonymous-default-export"
