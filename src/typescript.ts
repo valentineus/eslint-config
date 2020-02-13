@@ -1,5 +1,5 @@
-import overrides from "./rules/typescript/overrides.json";
-import rules from "./rules/typescript/default.json";
+import rDefault from "./rules/typescript/default.json";
+import rOverrides from "./rules/typescript/overrides.json";
 
 module.exports = {
 	"extends": ["./javascript"],
@@ -9,7 +9,7 @@ module.exports = {
 				"*.ts",
 				"*.tsx",
 			],
-			rules: { ...overrides },
+			rules: { ...rOverrides },
 		},
 	],
 	"parser": "@typescript-eslint/parser",
@@ -17,5 +17,5 @@ module.exports = {
 		tsconfigRootDir: __dirname,
 	},
 	"plugins": ["@typescript-eslint"],
-	"rules": { ...rules },
+	"rules": { ...rDefault },
 };

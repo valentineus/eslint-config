@@ -1,6 +1,10 @@
-import rules from "./rules/default.json";
+import rDefault from "./rules/default.json";
+import rImport from "./rules/import.json";
 
 module.exports = {
 	"extends": ["eslint:all"],
-	"rules": { ...rules },
+	"rules": {
+		...rDefault,
+		...rImport,
+	},
 };
