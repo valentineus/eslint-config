@@ -24,6 +24,9 @@
   "no-negated-in-lhs": [
     "off"
   ],
+  "no-spaced-func": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {

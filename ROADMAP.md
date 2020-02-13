@@ -184,7 +184,7 @@
 - [ ] "no-setter-return"
 - [ ] "no-shadow"
 - [ ] "no-shadow-restricted-names"
-- [ ] "no-spaced-func"
+- [X] "no-spaced-func"
 - [ ] "no-sparse-arrays"
 - [ ] "no-sync"
 - [X] "no-tabs"
