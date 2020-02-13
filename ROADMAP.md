@@ -254,7 +254,7 @@
 - [ ] "require-unicode-regexp"
 - [ ] "require-yield"
 - [ ] "rest-spread-spacing"
-- [ ] "semi"
+- [X] "semi"
 - [ ] "semi-spacing"
 - [ ] "semi-style"
 - [X] "sort-imports"

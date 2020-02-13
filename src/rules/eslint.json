@@ -99,6 +99,13 @@
   "require-jsdoc": [
     "off"
   ],
+  "semi": [
+    "error",
+    "always",
+    {
+      "omitLastInOneLineBlock": false
+    }
+  ],
   "sort-imports": [
     "error",
     {
