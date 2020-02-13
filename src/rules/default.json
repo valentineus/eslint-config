@@ -245,6 +245,9 @@
   "no-extra-semi": [
     "error"
   ],
+  "no-implied-eval": [
+    "error"
+  ],
   "no-magic-numbers": [
     "warn",
     {

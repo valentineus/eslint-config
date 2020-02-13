@@ -125,7 +125,7 @@
 - [ ] "no-global-assign"
 - [ ] "no-implicit-coercion"
 - [ ] "no-implicit-globals"
-- [ ] "no-implied-eval"
+- [X] "no-implied-eval"
 - [ ] "no-import-assign"
 - [ ] "no-inline-comments"
 - [ ] "no-inner-declarations"
