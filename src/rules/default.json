@@ -89,6 +89,14 @@
   "lines-around-directive": [
     "off"
   ],
+  "new-cap": [
+    "error",
+    {
+      "capIsNew": true,
+      "newIsCap": true,
+      "properties": false
+    }
+  ],
   "newline-after-var": [
     "off"
   ],

@@ -72,7 +72,7 @@
 - [ ] "max-statements-per-line"
 - [ ] "multiline-comment-style"
 - [ ] "multiline-ternary"
-- [ ] "new-cap"
+- [X] "new-cap"
 - [ ] "new-parens"
 - [X] "newline-after-var"
 - [X] "newline-before-return"
