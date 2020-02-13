@@ -186,7 +186,7 @@
     "off"
   ],
   "no-alert": [
-    "error"
+    "warn"
   ],
   "no-catch-shadow": [
     "off"
