@@ -254,6 +254,12 @@
       "enforceInMethodNames": false
     }
   ],
+  "no-unneeded-ternary": [
+    "error",
+    {
+      "defaultAssignment": true
+    }
+  ],
   "no-unused-vars": [
     "error",
     {

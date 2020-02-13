@@ -199,7 +199,7 @@
 - [X] "no-underscore-dangle"
 - [ ] "no-unexpected-multiline"
 - [ ] "no-unmodified-loop-condition"
-- [ ] "no-unneeded-ternary"
+- [X] "no-unneeded-ternary"
 - [ ] "no-unreachable"
 - [ ] "no-unsafe-finally"
 - [ ] "no-unsafe-negation"
