@@ -108,6 +108,14 @@
       "allowIndentationTabs": true
     }
   ],
+  "object-curly-newline": [
+    "error",
+    {
+      "consistent": true,
+      "minProperties": 2,
+      "multiline": true
+    }
+  ],
   "object-curly-spacing": [
     "error",
     "always",

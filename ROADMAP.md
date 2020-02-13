@@ -222,7 +222,7 @@
 - [ ] "no-whitespace-before-property"
 - [ ] "no-with"
 - [ ] "nonblock-statement-body-position"
-- [ ] "object-curly-newline"
+- [X] "object-curly-newline"
 - [X] "object-curly-spacing"
 - [ ] "object-property-newline"
 - [ ] "object-shorthand"
