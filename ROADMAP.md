@@ -5,7 +5,7 @@
 - [ ] "accessor-pairs"
 - [ ] "array-bracket-newline"
 - [ ] "array-bracket-spacing"
-- [ ] "array-callback-return"
+- [X] "array-callback-return"
 - [ ] "array-element-newline"
 - [ ] "arrow-body-style"
 - [X] "arrow-parens"

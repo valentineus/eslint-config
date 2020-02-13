@@ -1,4 +1,10 @@
 {
+  "array-callback-return": [
+    "error",
+    {
+      "allowImplicit": false
+    }
+  ],
   "arrow-parens": [
     "error",
     "always"
