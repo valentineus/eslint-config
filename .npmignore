@@ -1,3 +1,20 @@
+### Git ###
+
+# Created by git for backups. To disable backups in Git:
+.git/
+
+# $ git config --global mergetool.keepBackup false
+*.orig
+
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
 
 ### Linux ###
 
@@ -178,6 +195,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+### Project ###
+
 # Source code
 src/
 
@@ -187,21 +206,3 @@ src/
 .gitignore
 rollup.config.js
 tsconfig.json
-
-### Git ###
-
-# Created by git for backups. To disable backups in Git:
-.git/
-
-# $ git config --global mergetool.keepBackup false
-*.orig
-
-# Created by git when using merge tools for conflicts
-*.BACKUP.*
-*.BASE.*
-*.LOCAL.*
-*.REMOTE.*
-*_BACKUP_*.txt
-*_BASE_*.txt
-*_LOCAL_*.txt
-*_REMOTE_*.txt

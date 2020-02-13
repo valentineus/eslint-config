@@ -1,26 +1,21 @@
 {
   "compilerOptions": {
-    "allowJs": true,
-    "checkJs": true,
-    "declaration": true,
     "downlevelIteration": true,
     "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
     "module": "ES2015",
     "moduleResolution": "Node",
     "newLine": "lf",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "dist",
     "removeComments": true,
-    "sourceMap": true,
+    "resolveJsonModule": true,
+    "sourceMap": false,
     "strict": true,
     "target": "ES5"
   },
   "exclude": [
-    "node_modules",
-    "dist"
+    "node_modules"
   ],
   "include": [
     "src"

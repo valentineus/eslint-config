@@ -7,10 +7,23 @@
   "author": "Valentin Popov <info@valentineus.link>",
   "license": "Apache-2.0",
   "private": false,
-  "scripts": {},
-  "dependencies": {},
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
   "devDependencies": {
+    "@rollup/plugin-json": "^4.0.2",
+    "@rollup/plugin-typescript": "^3.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.19.2",
+    "@typescript-eslint/parser": "^2.19.2",
+    "rollup": "^1.31.0",
+    "rollup-plugin-terser": "^5.2.0",
     "tslib": "^1.10.0",
     "typescript": "^3.7.5"
-  }
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.19.0",
+    "@typescript-eslint/parser": "^2.19.0",
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {}
 }
