@@ -218,6 +218,12 @@
   "no-debugger": [
     "warn"
   ],
+  "no-else-return": [
+    "error",
+    {
+      "allowElseIf": false
+    }
+  ],
   "no-empty": [
     "warn",
     {
