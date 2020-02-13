@@ -251,6 +251,9 @@
   "no-iterator": [
     "error"
   ],
+  "no-labels": [
+    "error"
+  ],
   "no-magic-numbers": [
     "warn",
     {

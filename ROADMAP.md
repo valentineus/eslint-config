@@ -134,7 +134,7 @@
 - [ ] "no-irregular-whitespace"
 - [X] "no-iterator"
 - [ ] "no-label-var"
-- [ ] "no-labels"
+- [X] "no-labels"
 - [ ] "no-lone-blocks"
 - [ ] "no-lonely-if"
 - [ ] "no-loop-func"
