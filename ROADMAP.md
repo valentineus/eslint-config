@@ -92,7 +92,7 @@
 - [ ] "no-confusing-arrow"
 - [X] "no-console"
 - [ ] "no-const-assign"
-- [ ] "no-constant-condition"
+- [X] "no-constant-condition"
 - [ ] "no-constructor-return"
 - [ ] "no-continue"
 - [ ] "no-control-regex"

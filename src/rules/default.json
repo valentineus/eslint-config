@@ -194,6 +194,12 @@
   "no-console": [
     "warn"
   ],
+  "no-constant-condition": [
+    "error",
+    {
+      "checkLoops": true
+    }
+  ],
   "no-debugger": [
     "warn"
   ],
