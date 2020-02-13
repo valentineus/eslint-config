@@ -30,7 +30,7 @@
 - [ ] "default-case-last"
 - [ ] "default-param-last"
 - [ ] "dot-location"
-- [ ] "dot-notation"
+- [X] "dot-notation"
 - [X] "eol-last"
 - [X] "eqeqeq"
 - [ ] "for-direction"
