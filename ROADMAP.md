@@ -237,7 +237,7 @@
 - [ ] "prefer-destructuring"
 - [ ] "prefer-exponentiation-operator"
 - [ ] "prefer-named-capture-group"
-- [ ] "prefer-numeric-literals"
+- [X] "prefer-numeric-literals"
 - [X] "prefer-object-spread"
 - [ ] "prefer-promise-reject-errors"
 - [X] "prefer-reflect"
