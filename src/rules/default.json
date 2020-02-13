@@ -401,6 +401,9 @@
   "prefer-reflect": [
     "off"
   ],
+  "prefer-rest-params": [
+    "error"
+  ],
   "quote-props": [
     "error",
     "consistent-as-needed",

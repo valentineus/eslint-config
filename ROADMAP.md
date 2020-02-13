@@ -242,7 +242,7 @@
 - [ ] "prefer-promise-reject-errors"
 - [X] "prefer-reflect"
 - [ ] "prefer-regex-literals"
-- [ ] "prefer-rest-params"
+- [X] "prefer-rest-params"
 - [ ] "prefer-spread"
 - [ ] "prefer-template"
 - [X] "quote-props"
