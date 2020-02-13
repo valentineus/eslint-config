@@ -314,6 +314,9 @@
   "no-script-url": [
     "error"
   ],
+  "no-self-compare": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],

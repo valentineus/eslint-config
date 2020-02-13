@@ -179,7 +179,7 @@
 - [X] "no-return-await"
 - [X] "no-script-url"
 - [ ] "no-self-assign"
-- [ ] "no-self-compare"
+- [X] "no-self-compare"
 - [ ] "no-sequences"
 - [ ] "no-setter-return"
 - [ ] "no-shadow"
