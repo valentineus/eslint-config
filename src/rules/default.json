@@ -549,5 +549,13 @@
     {
       "requireStringLiterals": true
     }
+  ],
+  "yoda": [
+    "error",
+    "never",
+    {
+      "exceptRange": false,
+      "onlyEquality": false
+    }
   ]
 }

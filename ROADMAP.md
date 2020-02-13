@@ -279,7 +279,7 @@
 - [ ] "wrap-iife"
 - [ ] "wrap-regex"
 - [ ] "yield-star-spacing"
-- [ ] "yoda"
+- [X] "yoda"
 
 ## Import
 
