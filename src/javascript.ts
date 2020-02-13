@@ -1,6 +1,6 @@
-import eslint from "./rules/eslint.json";
+import rules from "./rules/default.json";
 
 module.exports = {
 	"extends": ["eslint:all"],
-	"rules": { ...eslint },
+	"rules": { ...rules },
 };
