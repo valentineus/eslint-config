@@ -259,7 +259,7 @@
 - [X] "semi-style"
 - [X] "sort-imports"
 - [X] "sort-keys"
-- [ ] "sort-vars"
+- [X] "sort-vars"
 - [ ] "space-before-blocks"
 - [ ] "space-before-function-paren"
 - [ ] "space-in-parens"

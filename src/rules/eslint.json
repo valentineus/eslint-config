@@ -140,6 +140,12 @@
       "natural": true
     }
   ],
+  "sort-vars": [
+    "error",
+    {
+      "ignoreCase": false
+    }
+  ],
   "valid-jsdoc": [
     "off"
   ]
