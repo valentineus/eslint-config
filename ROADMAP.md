@@ -111,7 +111,7 @@
 - [ ] "no-empty-function"
 - [ ] "no-empty-pattern"
 - [ ] "no-eq-null"
-- [ ] "no-eval"
+- [X] "no-eval"
 - [ ] "no-ex-assign"
 - [ ] "no-extend-native"
 - [ ] "no-extra-bind"
