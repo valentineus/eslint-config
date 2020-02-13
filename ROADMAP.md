@@ -382,7 +382,7 @@
 - [ ] "no-unnecessary-type-assertion"
 - [X] "no-untyped-public-signature"
 - [ ] "no-unused-expressions"
-- [ ] "no-unused-vars"
+- [X] "no-unused-vars"
 - [ ] "no-unused-vars-experimental"
 - [ ] "no-use-before-define"
 - [ ] "no-useless-constructor"
