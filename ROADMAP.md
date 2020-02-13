@@ -156,7 +156,7 @@
 - [ ] "no-new-object"
 - [ ] "no-new-require"
 - [ ] "no-new-symbol"
-- [ ] "no-new-wrappers"
+- [X] "no-new-wrappers"
 - [ ] "no-obj-calls"
 - [ ] "no-octal"
 - [ ] "no-octal-escape"

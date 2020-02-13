@@ -299,6 +299,9 @@
   "no-new-func": [
     "error"
   ],
+  "no-new-wrappers": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],
