@@ -60,6 +60,10 @@
       "allowIndentationTabs": true
     }
   ],
+  "one-var": [
+    "error",
+    "never"
+  ],
   "prefer-reflect": [
     "off"
   ],

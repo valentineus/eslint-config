@@ -226,7 +226,7 @@
 - [ ] "object-curly-spacing"
 - [ ] "object-property-newline"
 - [ ] "object-shorthand"
-- [ ] "one-var"
+- [X] "one-var"
 - [ ] "one-var-declaration-per-line"
 - [ ] "operator-assignment"
 - [ ] "operator-linebreak"
