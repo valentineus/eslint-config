@@ -60,7 +60,7 @@
 - [X] "linebreak-style"
 - [ ] "lines-around-comment"
 - [X] "lines-around-directive"
-- [ ] "lines-between-class-members"
+- [X] "lines-between-class-members"
 - [ ] "max-classes-per-file"
 - [ ] "max-depth"
 - [ ] "max-len"

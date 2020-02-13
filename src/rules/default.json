@@ -110,6 +110,13 @@
   "lines-around-directive": [
     "off"
   ],
+  "lines-between-class-members": [
+    "error",
+    "always",
+    {
+      "exceptAfterSingleLine": false
+    }
+  ],
   "max-statements": [
     "off"
   ],
