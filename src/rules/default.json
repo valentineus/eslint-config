@@ -388,6 +388,13 @@
     "error",
     "never"
   ],
+  "prefer-const": [
+    "error",
+    {
+      "destructuring": "any",
+      "ignoreReadBeforeAssign": false
+    }
+  ],
   "prefer-reflect": [
     "off"
   ],

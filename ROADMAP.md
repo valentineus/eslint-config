@@ -233,7 +233,7 @@
 - [ ] "padded-blocks"
 - [ ] "padding-line-between-statements"
 - [ ] "prefer-arrow-callback"
-- [ ] "prefer-const"
+- [X] "prefer-const"
 - [ ] "prefer-destructuring"
 - [ ] "prefer-exponentiation-operator"
 - [ ] "prefer-named-capture-group"
