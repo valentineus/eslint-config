@@ -114,7 +114,7 @@
 - [X] "no-eval"
 - [ ] "no-ex-assign"
 - [X] "no-extend-native"
-- [ ] "no-extra-bind"
+- [X] "no-extra-bind"
 - [ ] "no-extra-boolean-cast"
 - [ ] "no-extra-label"
 - [ ] "no-extra-parens"

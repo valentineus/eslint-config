@@ -239,6 +239,9 @@
   "no-extend-native": [
     "error"
   ],
+  "no-extra-bind": [
+    "error"
+  ],
   "no-extra-semi": [
     "error"
   ],
