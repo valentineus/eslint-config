@@ -541,6 +541,10 @@
       "named": "never"
     }
   ],
+  "strict": [
+    "error",
+    "safe"
+  ],
   "valid-jsdoc": [
     "off"
   ],

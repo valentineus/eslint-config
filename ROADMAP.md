@@ -266,7 +266,7 @@
 - [ ] "space-infix-ops"
 - [ ] "space-unary-ops"
 - [ ] "spaced-comment"
-- [ ] "strict"
+- [X] "strict"
 - [ ] "switch-colon-spacing"
 - [ ] "symbol-description"
 - [ ] "template-curly-spacing"
