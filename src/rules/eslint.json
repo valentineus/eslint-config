@@ -60,6 +60,10 @@
       "mode": "strict"
     }
   ],
+  "linebreak-style": [
+    "error",
+    "unix"
+  ],
   "lines-around-directive": [
     "off"
   ],

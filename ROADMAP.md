@@ -57,7 +57,7 @@
 - [X] "key-spacing"
 - [ ] "keyword-spacing"
 - [ ] "line-comment-position"
-- [ ] "linebreak-style"
+- [X] "linebreak-style"
 - [ ] "lines-around-comment"
 - [X] "lines-around-directive"
 - [ ] "lines-between-class-members"
