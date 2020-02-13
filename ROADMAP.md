@@ -255,7 +255,7 @@
 - [ ] "require-yield"
 - [ ] "rest-spread-spacing"
 - [X] "semi"
-- [ ] "semi-spacing"
+- [X] "semi-spacing"
 - [ ] "semi-style"
 - [X] "sort-imports"
 - [X] "sort-keys"

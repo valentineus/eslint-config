@@ -106,6 +106,13 @@
       "omitLastInOneLineBlock": false
     }
   ],
+  "semi-spacing": [
+    "error",
+    {
+      "after": true,
+      "before": false
+    }
+  ],
   "sort-imports": [
     "error",
     {
