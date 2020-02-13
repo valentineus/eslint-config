@@ -142,7 +142,7 @@
 - [ ] "no-misleading-character-class"
 - [ ] "no-mixed-operators"
 - [ ] "no-mixed-requires"
-- [ ] "no-mixed-spaces-and-tabs"
+- [X] "no-mixed-spaces-and-tabs"
 - [ ] "no-multi-assign"
 - [X] "no-multi-spaces"
 - [ ] "no-multi-str"
