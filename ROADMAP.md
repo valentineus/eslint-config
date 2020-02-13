@@ -50,7 +50,7 @@
 - [ ] "id-length"
 - [ ] "id-match"
 - [ ] "implicit-arrow-linebreak"
-- [ ] "indent"
+- [X] "indent"
 - [X] "indent-legacy"
 - [ ] "init-declarations"
 - [ ] "jsx-quotes"
