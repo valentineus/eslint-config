@@ -107,6 +107,23 @@
     "error",
     "unix"
   ],
+  "lines-around-comment": [
+    "error",
+    {
+      "afterBlockComment": false,
+      "afterLineComment": false,
+      "allowArrayEnd": false,
+      "allowArrayStart": true,
+      "allowBlockEnd": false,
+      "allowBlockStart": true,
+      "allowClassEnd": false,
+      "allowClassStart": true,
+      "allowObjectEnd": false,
+      "allowObjectStart": true,
+      "beforeBlockComment": true,
+      "beforeLineComment": false
+    }
+  ],
   "lines-around-directive": [
     "off"
   ],

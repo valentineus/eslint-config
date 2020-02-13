@@ -58,7 +58,7 @@
 - [X] "keyword-spacing"
 - [ ] "line-comment-position"
 - [X] "linebreak-style"
-- [ ] "lines-around-comment"
+- [X] "lines-around-comment"
 - [X] "lines-around-directive"
 - [X] "lines-between-class-members"
 - [ ] "max-classes-per-file"
