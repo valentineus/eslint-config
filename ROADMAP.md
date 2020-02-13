@@ -165,7 +165,7 @@
 - [ ] "no-plusplus"
 - [ ] "no-process-env"
 - [ ] "no-process-exit"
-- [ ] "no-proto"
+- [X] "no-proto"
 - [ ] "no-prototype-builtins"
 - [ ] "no-redeclare"
 - [ ] "no-regex-spaces"

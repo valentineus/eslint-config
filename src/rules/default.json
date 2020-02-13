@@ -305,6 +305,9 @@
   "no-octal-escape": [
     "error"
   ],
+  "no-proto": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],
