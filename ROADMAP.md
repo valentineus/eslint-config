@@ -32,7 +32,7 @@
 - [ ] "dot-location"
 - [ ] "dot-notation"
 - [X] "eol-last"
-- [ ] "eqeqeq"
+- [X] "eqeqeq"
 - [ ] "for-direction"
 - [ ] "func-call-spacing"
 - [ ] "func-name-matching"
