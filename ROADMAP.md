@@ -12,7 +12,7 @@
 - [ ] "arrow-spacing"
 - [ ] "block-scoped-var"
 - [ ] "block-spacing"
-- [ ] "brace-style"
+- [X] "brace-style"
 - [ ] "callback-return"
 - [ ] "camelcase"
 - [ ] "capitalized-comments"

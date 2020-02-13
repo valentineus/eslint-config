@@ -1,4 +1,11 @@
 {
+  "brace-style": [
+    "error",
+    "1tbs",
+    {
+      "allowSingleLine": false
+    }
+  ],
   "comma-dangle": [
     "error",
     "always-multiline"
