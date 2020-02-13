@@ -91,6 +91,20 @@
   "require-jsdoc": [
     "off"
   ],
+  "sort-imports": [
+    "error",
+    {
+      "ignoreCase": false,
+      "ignoreDeclarationSort": false,
+      "ignoreMemberSort": false,
+      "memberSyntaxSortOrder": [
+        "all",
+        "multiple",
+        "single",
+        "none"
+      ]
+    }
+  ],
   "sort-keys": [
     "warn",
     "asc",

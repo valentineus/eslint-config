@@ -257,7 +257,7 @@
 - [ ] "semi"
 - [ ] "semi-spacing"
 - [ ] "semi-style"
-- [ ] "sort-imports"
+- [X] "sort-imports"
 - [X] "sort-keys"
 - [ ] "sort-vars"
 - [ ] "space-before-blocks"
