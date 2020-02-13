@@ -198,4 +198,6 @@ $RECYCLE.BIN/
 ### Project ###
 
 # Resulting code
+/_tslib-*.js
 /javascript.js
+/typescript.js

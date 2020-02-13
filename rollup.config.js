@@ -5,6 +5,7 @@ import typescript from "@rollup/plugin-typescript";
 module.exports = {
 	input: {
 		javascript: "src/javascript.ts",
+		typescript: "src/typescript.ts",
 	},
 	output: {
 		dir: ".",

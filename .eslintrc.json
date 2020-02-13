@@ -3,7 +3,7 @@
     "es6": true,
     "node": true
   },
-  "extends": "./javascript",
+  "extends": "./typescript",
   "globals": {
     "Atomics": "readonly",
     "SharedArrayBuffer": "readonly"
