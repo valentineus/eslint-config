@@ -246,7 +246,7 @@
 - [ ] "prefer-spread"
 - [ ] "prefer-template"
 - [X] "quote-props"
-- [ ] "quotes"
+- [X] "quotes"
 - [ ] "radix"
 - [ ] "require-atomic-updates"
 - [ ] "require-await"

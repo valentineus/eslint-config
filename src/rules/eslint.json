@@ -72,6 +72,14 @@
       "unnecessary": true
     }
   ],
+  "quotes": [
+    "error",
+    "double",
+    {
+      "allowTemplateLiterals": false,
+      "avoidEscape": false
+    }
+  ],
   "require-jsdoc": [
     "off"
   ],
