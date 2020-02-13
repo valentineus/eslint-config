@@ -152,7 +152,7 @@
 - [X] "no-negated-in-lhs"
 - [X] "no-nested-ternary"
 - [ ] "no-new"
-- [ ] "no-new-func"
+- [X] "no-new-func"
 - [ ] "no-new-object"
 - [ ] "no-new-require"
 - [ ] "no-new-symbol"

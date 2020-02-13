@@ -296,6 +296,9 @@
   "no-nested-ternary": [
     "error"
   ],
+  "no-new-func": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],
