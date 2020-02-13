@@ -1,4 +1,8 @@
 {
+  "arrow-parens": [
+    "error",
+    "always"
+  ],
   "brace-style": [
     "error",
     "1tbs",

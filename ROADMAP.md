@@ -8,7 +8,7 @@
 - [ ] "array-callback-return"
 - [ ] "array-element-newline"
 - [ ] "arrow-body-style"
-- [ ] "arrow-parens"
+- [X] "arrow-parens"
 - [ ] "arrow-spacing"
 - [ ] "block-scoped-var"
 - [ ] "block-spacing"
