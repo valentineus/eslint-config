@@ -260,7 +260,7 @@
 - [X] "sort-imports"
 - [X] "sort-keys"
 - [X] "sort-vars"
-- [ ] "space-before-blocks"
+- [X] "space-before-blocks"
 - [X] "space-before-function-paren"
 - [ ] "space-in-parens"
 - [ ] "space-infix-ops"
