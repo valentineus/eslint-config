@@ -180,7 +180,7 @@
 - [X] "no-script-url"
 - [ ] "no-self-assign"
 - [X] "no-self-compare"
-- [ ] "no-sequences"
+- [X] "no-sequences"
 - [ ] "no-setter-return"
 - [ ] "no-shadow"
 - [ ] "no-shadow-restricted-names"
