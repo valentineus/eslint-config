@@ -344,6 +344,9 @@
       "enforceInMethodNames": false
     }
   ],
+  "no-unmodified-loop-condition": [
+    "error"
+  ],
   "no-unneeded-ternary": [
     "error",
     {

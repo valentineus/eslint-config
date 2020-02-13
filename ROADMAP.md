@@ -198,7 +198,7 @@
 - [X] "no-undefined"
 - [X] "no-underscore-dangle"
 - [ ] "no-unexpected-multiline"
-- [ ] "no-unmodified-loop-condition"
+- [X] "no-unmodified-loop-condition"
 - [X] "no-unneeded-ternary"
 - [ ] "no-unreachable"
 - [ ] "no-unsafe-finally"
