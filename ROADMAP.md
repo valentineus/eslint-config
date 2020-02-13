@@ -177,7 +177,7 @@
 - [ ] "no-restricted-syntax"
 - [ ] "no-return-assign"
 - [X] "no-return-await"
-- [ ] "no-script-url"
+- [X] "no-script-url"
 - [ ] "no-self-assign"
 - [ ] "no-self-compare"
 - [ ] "no-sequences"

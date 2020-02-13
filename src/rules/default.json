@@ -311,6 +311,9 @@
   "no-return-await": [
     "error"
   ],
+  "no-script-url": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],
