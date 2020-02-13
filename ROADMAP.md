@@ -258,7 +258,7 @@
 - [ ] "semi-spacing"
 - [ ] "semi-style"
 - [ ] "sort-imports"
-- [ ] "sort-keys"
+- [X] "sort-keys"
 - [ ] "sort-vars"
 - [ ] "space-before-blocks"
 - [ ] "space-before-function-paren"

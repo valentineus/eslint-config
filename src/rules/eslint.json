@@ -66,6 +66,15 @@
   "require-jsdoc": [
     "off"
   ],
+  "sort-keys": [
+    "warn",
+    "asc",
+    {
+      "caseSensitive": true,
+      "minKeys": 2,
+      "natural": true
+    }
+  ],
   "valid-jsdoc": [
     "off"
   ]
