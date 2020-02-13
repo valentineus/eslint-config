@@ -118,7 +118,7 @@
 - [ ] "no-extra-boolean-cast"
 - [ ] "no-extra-label"
 - [ ] "no-extra-parens"
-- [ ] "no-extra-semi"
+- [X] "no-extra-semi"
 - [ ] "no-fallthrough"
 - [ ] "no-floating-decimal"
 - [ ] "no-func-assign"

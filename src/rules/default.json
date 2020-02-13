@@ -121,6 +121,9 @@
       "allowIndirect": false
     }
   ],
+  "no-extra-semi": [
+    "error"
+  ],
   "no-multi-spaces": [
     "error",
     {
