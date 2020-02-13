@@ -220,7 +220,7 @@
 - [ ] "no-void"
 - [ ] "no-warning-comments"
 - [ ] "no-whitespace-before-property"
-- [ ] "no-with"
+- [X] "no-with"
 - [ ] "nonblock-statement-body-position"
 - [X] "object-curly-newline"
 - [X] "object-curly-spacing"

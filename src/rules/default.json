@@ -394,6 +394,9 @@
   "no-var": [
     "error"
   ],
+  "no-with": [
+    "error"
+  ],
   "object-curly-newline": [
     "error",
     {
