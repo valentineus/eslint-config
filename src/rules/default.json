@@ -302,6 +302,9 @@
   "no-new-wrappers": [
     "error"
   ],
+  "no-octal-escape": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],

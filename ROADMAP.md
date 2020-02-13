@@ -159,7 +159,7 @@
 - [X] "no-new-wrappers"
 - [ ] "no-obj-calls"
 - [ ] "no-octal"
-- [ ] "no-octal-escape"
+- [X] "no-octal-escape"
 - [ ] "no-param-reassign"
 - [ ] "no-path-concat"
 - [ ] "no-plusplus"
