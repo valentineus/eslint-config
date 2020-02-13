@@ -388,6 +388,9 @@
       "ignoreImport": false
     }
   ],
+  "no-useless-return": [
+    "error"
+  ],
   "no-var": [
     "error"
   ],

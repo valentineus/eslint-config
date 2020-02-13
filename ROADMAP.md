@@ -215,7 +215,7 @@
 - [X] "no-useless-constructor"
 - [ ] "no-useless-escape"
 - [X] "no-useless-rename"
-- [ ] "no-useless-return"
+- [X] "no-useless-return"
 - [X] "no-var"
 - [ ] "no-void"
 - [ ] "no-warning-comments"
