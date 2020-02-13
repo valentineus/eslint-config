@@ -135,6 +135,9 @@
       "allowIndentationTabs": true
     }
   ],
+  "no-ternary": [
+    "off"
+  ],
   "no-unused-vars": [
     "error",
     {

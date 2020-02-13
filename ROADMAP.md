@@ -189,7 +189,7 @@
 - [ ] "no-sync"
 - [X] "no-tabs"
 - [ ] "no-template-curly-in-string"
-- [ ] "no-ternary"
+- [X] "no-ternary"
 - [ ] "no-this-before-super"
 - [ ] "no-throw-literal"
 - [ ] "no-trailing-spaces"
