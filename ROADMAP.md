@@ -74,7 +74,7 @@
 - [ ] "multiline-ternary"
 - [ ] "new-cap"
 - [ ] "new-parens"
-- [ ] "newline-after-var"
+- [X] "newline-after-var"
 - [ ] "newline-before-return"
 - [ ] "newline-per-chained-call"
 - [ ] "no-alert"

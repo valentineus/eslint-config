@@ -9,6 +9,9 @@
   "lines-around-directive": [
     "off"
   ],
+  "newline-after-var": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {
