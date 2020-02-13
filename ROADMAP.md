@@ -250,7 +250,7 @@
 - [ ] "radix"
 - [ ] "require-atomic-updates"
 - [ ] "require-await"
-- [ ] "require-jsdoc"
+- [X] "require-jsdoc"
 - [ ] "require-unicode-regexp"
 - [ ] "require-yield"
 - [ ] "rest-spread-spacing"

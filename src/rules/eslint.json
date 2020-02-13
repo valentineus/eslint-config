@@ -35,5 +35,8 @@
   ],
   "prefer-reflect": [
     "off"
+  ],
+  "require-jsdoc": [
+    "off"
   ]
 }
