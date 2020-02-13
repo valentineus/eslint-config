@@ -362,6 +362,14 @@
       "vars": "all"
     }
   ],
+  "no-useless-rename": [
+    "error",
+    {
+      "ignoreDestructuring": false,
+      "ignoreExport": false,
+      "ignoreImport": false
+    }
+  ],
   "no-var": [
     "error"
   ],

@@ -214,7 +214,7 @@
 - [ ] "no-useless-concat"
 - [ ] "no-useless-constructor"
 - [ ] "no-useless-escape"
-- [ ] "no-useless-rename"
+- [X] "no-useless-rename"
 - [ ] "no-useless-return"
 - [X] "no-var"
 - [ ] "no-void"
