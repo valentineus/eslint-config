@@ -135,7 +135,7 @@
 - [X] "no-iterator"
 - [ ] "no-label-var"
 - [X] "no-labels"
-- [ ] "no-lone-blocks"
+- [X] "no-lone-blocks"
 - [ ] "no-lonely-if"
 - [ ] "no-loop-func"
 - [X] "no-magic-numbers"

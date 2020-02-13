@@ -254,6 +254,9 @@
   "no-labels": [
     "error"
   ],
+  "no-lone-blocks": [
+    "error"
+  ],
   "no-magic-numbers": [
     "warn",
     {
