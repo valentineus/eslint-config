@@ -7,7 +7,17 @@
       "avoidEscape": false
     }
   ],
+  "@typescript-eslint/semi": [
+    "error",
+    "always",
+    {
+      "omitLastInOneLineBlock": false
+    }
+  ],
   "quotes": [
+    "off"
+  ],
+  "semi": [
     "off"
   ]
 }

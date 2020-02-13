@@ -361,7 +361,7 @@
 - [ ] "restrict-plus-operands"
 - [ ] "restrict-template-expressions"
 - [ ] "return-await"
-- [ ] "semi"
+- [X] "semi"
 - [ ] "space-before-function-paren"
 - [ ] "strict-boolean-expressions"
 - [ ] "switch-exhaustiveness-check"
