@@ -194,7 +194,7 @@
 - [ ] "no-throw-literal"
 - [ ] "no-trailing-spaces"
 - [ ] "no-undef"
-- [ ] "no-undef-init"
+- [X] "no-undef-init"
 - [X] "no-undefined"
 - [X] "no-underscore-dangle"
 - [ ] "no-unexpected-multiline"

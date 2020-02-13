@@ -338,6 +338,9 @@
   "no-ternary": [
     "off"
   ],
+  "no-undef-init": [
+    "error"
+  ],
   "no-undefined": [
     "off"
   ],
