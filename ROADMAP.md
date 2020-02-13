@@ -96,7 +96,7 @@
 - [ ] "no-constructor-return"
 - [ ] "no-continue"
 - [ ] "no-control-regex"
-- [ ] "no-debugger"
+- [X] "no-debugger"
 - [ ] "no-delete-var"
 - [ ] "no-div-regex"
 - [ ] "no-dupe-args"

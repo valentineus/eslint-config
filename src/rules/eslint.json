@@ -66,6 +66,9 @@
       "allow": []
     }
   ],
+  "no-debugger": [
+    "error"
+  ],
   "no-multi-spaces": [
     "error",
     {
