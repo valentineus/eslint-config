@@ -90,7 +90,7 @@
 - [ ] "no-compare-neg-zero"
 - [ ] "no-cond-assign"
 - [ ] "no-confusing-arrow"
-- [ ] "no-console"
+- [X] "no-console"
 - [ ] "no-const-assign"
 - [ ] "no-constant-condition"
 - [ ] "no-constructor-return"

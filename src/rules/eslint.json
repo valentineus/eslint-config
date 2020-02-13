@@ -60,6 +60,12 @@
   "no-catch-shadow": [
     "off"
   ],
+  "no-console": [
+    "warn",
+    {
+      "allow": []
+    }
+  ],
   "no-multi-spaces": [
     "error",
     {
