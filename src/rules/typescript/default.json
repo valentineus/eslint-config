@@ -46,6 +46,9 @@
       "ignoreRestArgs": false
     }
   ],
+  "@typescript-eslint/no-inferrable-types": [
+    "off"
+  ],
   "@typescript-eslint/no-magic-numbers": [
     "warn",
     {

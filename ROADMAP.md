@@ -363,7 +363,7 @@
 - [ ] "no-floating-promises"
 - [ ] "no-for-in-array"
 - [ ] "no-implied-eval"
-- [ ] "no-inferrable-types"
+- [X] "no-inferrable-types"
 - [X] "no-magic-numbers"
 - [ ] "no-misused-new"
 - [ ] "no-misused-promises"
