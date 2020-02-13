@@ -46,6 +46,17 @@
       "ignoreRestArgs": false
     }
   ],
+  "@typescript-eslint/no-magic-numbers": [
+    "warn",
+    {
+      "detectObjects": false,
+      "enforceConst": true,
+      "ignoreArrayIndexes": false,
+      "ignoreEnums": true,
+      "ignoreNumericLiteralTypes": true,
+      "ignoreReadonlyClassProperties": true
+    }
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",
@@ -73,6 +84,9 @@
     }
   ],
   "indent": [
+    "off"
+  ],
+  "no-magic-numbers": [
     "off"
   ],
   "quotes": [

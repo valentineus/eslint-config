@@ -364,7 +364,7 @@
 - [ ] "no-for-in-array"
 - [ ] "no-implied-eval"
 - [ ] "no-inferrable-types"
-- [ ] "no-magic-numbers"
+- [X] "no-magic-numbers"
 - [ ] "no-misused-new"
 - [ ] "no-misused-promises"
 - [ ] "no-namespace"
