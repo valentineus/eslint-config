@@ -17,7 +17,7 @@
 - [ ] "camelcase"
 - [ ] "capitalized-comments"
 - [ ] "class-methods-use-this"
-- [ ] "comma-dangle"
+- [X] "comma-dangle"
 - [ ] "comma-spacing"
 - [ ] "comma-style"
 - [ ] "complexity"
