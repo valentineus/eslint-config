@@ -85,7 +85,7 @@
 - [ ] "no-buffer-constructor"
 - [ ] "no-caller"
 - [ ] "no-case-declarations"
-- [ ] "no-catch-shadow"
+- [X] "no-catch-shadow"
 - [ ] "no-class-assign"
 - [ ] "no-compare-neg-zero"
 - [ ] "no-cond-assign"
