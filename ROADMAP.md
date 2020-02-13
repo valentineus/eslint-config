@@ -290,7 +290,6 @@
 - [ ] "extensions"
 - [X] "first"
 - [ ] "group-exports"
-- [ ] "imports-first"
 - [ ] "max-dependencies"
 - [ ] "named"
 - [ ] "namespace"
