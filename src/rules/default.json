@@ -248,6 +248,9 @@
   "no-implied-eval": [
     "error"
   ],
+  "no-iterator": [
+    "error"
+  ],
   "no-magic-numbers": [
     "warn",
     {

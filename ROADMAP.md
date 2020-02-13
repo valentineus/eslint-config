@@ -132,7 +132,7 @@
 - [ ] "no-invalid-regexp"
 - [ ] "no-invalid-this"
 - [ ] "no-irregular-whitespace"
-- [ ] "no-iterator"
+- [X] "no-iterator"
 - [ ] "no-label-var"
 - [ ] "no-labels"
 - [ ] "no-lone-blocks"
