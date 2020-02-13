@@ -410,6 +410,6 @@
 - [ ] "switch-exhaustiveness-check"
 - [ ] "triple-slash-reference"
 - [X] "type-annotation-spacing"
-- [ ] "typedef"
+- [X] "typedef"
 - [ ] "unbound-method"
 - [ ] "unified-signatures"
