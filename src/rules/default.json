@@ -149,6 +149,15 @@
   "no-ternary": [
     "off"
   ],
+  "no-underscore-dangle": [
+    "error",
+    {
+      "allowAfterSuper": false,
+      "allowAfterThis": true,
+      "allowAfterThisConstructor": false,
+      "enforceInMethodNames": false
+    }
+  ],
   "no-unused-vars": [
     "error",
     {

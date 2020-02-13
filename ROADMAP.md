@@ -196,7 +196,7 @@
 - [ ] "no-undef"
 - [ ] "no-undef-init"
 - [ ] "no-undefined"
-- [ ] "no-underscore-dangle"
+- [X] "no-underscore-dangle"
 - [ ] "no-unexpected-multiline"
 - [ ] "no-unmodified-loop-condition"
 - [ ] "no-unneeded-ternary"
