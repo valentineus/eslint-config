@@ -187,7 +187,7 @@
 - [ ] "no-spaced-func"
 - [ ] "no-sparse-arrays"
 - [ ] "no-sync"
-- [ ] "no-tabs"
+- [X] "no-tabs"
 - [ ] "no-template-curly-in-string"
 - [ ] "no-ternary"
 - [ ] "no-this-before-super"
