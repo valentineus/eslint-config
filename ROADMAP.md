@@ -210,7 +210,7 @@
 - [ ] "no-useless-backreference"
 - [ ] "no-useless-call"
 - [ ] "no-useless-catch"
-- [ ] "no-useless-computed-key"
+- [X] "no-useless-computed-key"
 - [ ] "no-useless-concat"
 - [X] "no-useless-constructor"
 - [ ] "no-useless-escape"

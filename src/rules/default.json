@@ -362,6 +362,12 @@
       "vars": "all"
     }
   ],
+  "no-useless-computed-key": [
+    "error",
+    {
+      "enforceForClassMembers": true
+    }
+  ],
   "no-useless-constructor": [
     "error"
   ],
