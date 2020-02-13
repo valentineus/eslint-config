@@ -144,7 +144,7 @@
 - [ ] "no-mixed-requires"
 - [ ] "no-mixed-spaces-and-tabs"
 - [ ] "no-multi-assign"
-- [ ] "no-multi-spaces"
+- [X] "no-multi-spaces"
 - [ ] "no-multi-str"
 - [ ] "no-multiple-empty-lines"
 - [X] "no-native-reassign"

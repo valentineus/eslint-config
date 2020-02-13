@@ -49,6 +49,13 @@
   "no-catch-shadow": [
     "off"
   ],
+  "no-multi-spaces": [
+    "error",
+    {
+      "exceptions": {},
+      "ignoreEOLComments": false
+    }
+  ],
   "no-native-reassign": [
     "off"
   ],
