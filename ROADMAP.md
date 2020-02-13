@@ -212,7 +212,7 @@
 - [ ] "no-useless-catch"
 - [ ] "no-useless-computed-key"
 - [ ] "no-useless-concat"
-- [ ] "no-useless-constructor"
+- [X] "no-useless-constructor"
 - [ ] "no-useless-escape"
 - [X] "no-useless-rename"
 - [ ] "no-useless-return"
