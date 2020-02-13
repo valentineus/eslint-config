@@ -308,6 +308,9 @@
   "no-proto": [
     "error"
   ],
+  "no-return-await": [
+    "error"
+  ],
   "no-spaced-func": [
     "off"
   ],

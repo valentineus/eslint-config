@@ -176,7 +176,7 @@
 - [ ] "no-restricted-properties"
 - [ ] "no-restricted-syntax"
 - [ ] "no-return-assign"
-- [ ] "no-return-await"
+- [X] "no-return-await"
 - [ ] "no-script-url"
 - [ ] "no-self-assign"
 - [ ] "no-self-compare"
