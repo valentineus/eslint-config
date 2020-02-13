@@ -261,7 +261,7 @@
 - [X] "sort-keys"
 - [X] "sort-vars"
 - [ ] "space-before-blocks"
-- [ ] "space-before-function-paren"
+- [X] "space-before-function-paren"
 - [ ] "space-in-parens"
 - [ ] "space-infix-ops"
 - [ ] "space-unary-ops"

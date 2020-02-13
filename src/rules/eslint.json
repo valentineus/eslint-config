@@ -190,6 +190,14 @@
       "ignoreCase": false
     }
   ],
+  "space-before-function-paren": [
+    "error",
+    {
+      "anonymous": "always",
+      "asyncArrow": "always",
+      "named": "never"
+    }
+  ],
   "valid-jsdoc": [
     "off"
   ],
