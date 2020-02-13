@@ -147,7 +147,7 @@
 - [ ] "no-multi-spaces"
 - [ ] "no-multi-str"
 - [ ] "no-multiple-empty-lines"
-- [ ] "no-native-reassign"
+- [X] "no-native-reassign"
 - [ ] "no-negated-condition"
 - [ ] "no-negated-in-lhs"
 - [ ] "no-nested-ternary"

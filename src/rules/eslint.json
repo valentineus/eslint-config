@@ -18,6 +18,9 @@
   "no-catch-shadow": [
     "off"
   ],
+  "no-native-reassign": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {
