@@ -238,7 +238,7 @@
 - [ ] "prefer-exponentiation-operator"
 - [ ] "prefer-named-capture-group"
 - [ ] "prefer-numeric-literals"
-- [ ] "prefer-object-spread"
+- [X] "prefer-object-spread"
 - [ ] "prefer-promise-reject-errors"
 - [X] "prefer-reflect"
 - [ ] "prefer-regex-literals"

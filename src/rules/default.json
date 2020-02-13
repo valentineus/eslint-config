@@ -395,6 +395,9 @@
       "ignoreReadBeforeAssign": false
     }
   ],
+  "prefer-object-spread": [
+    "error"
+  ],
   "prefer-reflect": [
     "off"
   ],
