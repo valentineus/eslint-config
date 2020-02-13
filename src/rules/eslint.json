@@ -3,6 +3,13 @@
     "error",
     "always"
   ],
+  "arrow-spacing": [
+    "error",
+    {
+      "after": true,
+      "before": true
+    }
+  ],
   "brace-style": [
     "error",
     "1tbs",

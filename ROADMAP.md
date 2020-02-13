@@ -9,7 +9,7 @@
 - [ ] "array-element-newline"
 - [ ] "arrow-body-style"
 - [X] "arrow-parens"
-- [ ] "arrow-spacing"
+- [X] "arrow-spacing"
 - [ ] "block-scoped-var"
 - [ ] "block-spacing"
 - [X] "brace-style"
