@@ -29,6 +29,14 @@
     "error",
     "always"
   ],
+  "id-length": [
+    "warn",
+    {
+      "max": 32,
+      "min": 2,
+      "properties": "always"
+    }
+  ],
   "indent": [
     "error",
     "tab",

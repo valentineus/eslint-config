@@ -47,7 +47,7 @@
 - [ ] "guard-for-in"
 - [ ] "handle-callback-err"
 - [ ] "id-blacklist"
-- [ ] "id-length"
+- [X] "id-length"
 - [ ] "id-match"
 - [ ] "implicit-arrow-linebreak"
 - [X] "indent"
