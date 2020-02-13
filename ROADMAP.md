@@ -195,7 +195,7 @@
 - [ ] "no-trailing-spaces"
 - [ ] "no-undef"
 - [ ] "no-undef-init"
-- [ ] "no-undefined"
+- [X] "no-undefined"
 - [X] "no-underscore-dangle"
 - [ ] "no-unexpected-multiline"
 - [ ] "no-unmodified-loop-condition"
