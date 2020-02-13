@@ -146,7 +146,7 @@
 - [ ] "no-multi-assign"
 - [X] "no-multi-spaces"
 - [ ] "no-multi-str"
-- [ ] "no-multiple-empty-lines"
+- [X] "no-multiple-empty-lines"
 - [X] "no-native-reassign"
 - [ ] "no-negated-condition"
 - [X] "no-negated-in-lhs"
