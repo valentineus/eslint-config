@@ -6,6 +6,9 @@
   "indent-legacy": [
     "off"
   ],
+  "lines-around-directive": [
+    "off"
+  ],
   "no-tabs": [
     "error",
     {

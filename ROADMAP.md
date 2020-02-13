@@ -59,7 +59,7 @@
 - [ ] "line-comment-position"
 - [ ] "linebreak-style"
 - [ ] "lines-around-comment"
-- [ ] "lines-around-directive"
+- [X] "lines-around-directive"
 - [ ] "lines-between-class-members"
 - [ ] "max-classes-per-file"
 - [ ] "max-depth"
