@@ -232,7 +232,7 @@
 - [ ] "operator-linebreak"
 - [ ] "padded-blocks"
 - [ ] "padding-line-between-statements"
-- [ ] "prefer-arrow-callback"
+- [X] "prefer-arrow-callback"
 - [X] "prefer-const"
 - [ ] "prefer-destructuring"
 - [ ] "prefer-exponentiation-operator"
