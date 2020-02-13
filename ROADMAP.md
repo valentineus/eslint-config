@@ -16,7 +16,7 @@
 - [ ] "callback-return"
 - [ ] "camelcase"
 - [ ] "capitalized-comments"
-- [ ] "class-methods-use-this"
+- [X] "class-methods-use-this"
 - [X] "comma-dangle"
 - [X] "comma-spacing"
 - [ ] "comma-style"

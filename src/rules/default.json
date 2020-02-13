@@ -17,6 +17,9 @@
       "allowSingleLine": false
     }
   ],
+  "class-methods-use-this": [
+    "warn"
+  ],
   "comma-dangle": [
     "error",
     "always-multiline"
