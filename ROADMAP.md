@@ -138,7 +138,7 @@
 - [ ] "no-lone-blocks"
 - [ ] "no-lonely-if"
 - [ ] "no-loop-func"
-- [ ] "no-magic-numbers"
+- [X] "no-magic-numbers"
 - [ ] "no-misleading-character-class"
 - [ ] "no-mixed-operators"
 - [ ] "no-mixed-requires"

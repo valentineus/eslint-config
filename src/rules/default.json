@@ -206,6 +206,14 @@
   "no-extra-semi": [
     "error"
   ],
+  "no-magic-numbers": [
+    "warn",
+    {
+      "detectObjects": false,
+      "enforceConst": true,
+      "ignoreArrayIndexes": false
+    }
+  ],
   "no-multi-spaces": [
     "error",
     {
