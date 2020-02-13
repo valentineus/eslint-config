@@ -243,7 +243,7 @@
 - [X] "prefer-reflect"
 - [ ] "prefer-regex-literals"
 - [X] "prefer-rest-params"
-- [ ] "prefer-spread"
+- [X] "prefer-spread"
 - [ ] "prefer-template"
 - [X] "quote-props"
 - [X] "quotes"
