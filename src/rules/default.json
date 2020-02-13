@@ -99,6 +99,9 @@
   "lines-around-directive": [
     "off"
   ],
+  "max-statements": [
+    "off"
+  ],
   "multiline-comment-style": [
     "error",
     "starred-block"

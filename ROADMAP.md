@@ -68,7 +68,7 @@
 - [ ] "max-lines-per-function"
 - [ ] "max-nested-callbacks"
 - [ ] "max-params"
-- [ ] "max-statements"
+- [X] "max-statements"
 - [ ] "max-statements-per-line"
 - [X] "multiline-comment-style"
 - [ ] "multiline-ternary"
