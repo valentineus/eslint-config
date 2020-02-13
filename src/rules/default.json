@@ -200,6 +200,9 @@
   "no-alert": [
     "warn"
   ],
+  "no-caller": [
+    "error"
+  ],
   "no-catch-shadow": [
     "off"
   ],

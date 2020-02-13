@@ -83,7 +83,7 @@
 - [ ] "no-await-in-loop"
 - [ ] "no-bitwise"
 - [ ] "no-buffer-constructor"
-- [ ] "no-caller"
+- [X] "no-caller"
 - [ ] "no-case-declarations"
 - [X] "no-catch-shadow"
 - [ ] "no-class-assign"
