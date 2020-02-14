@@ -15,4 +15,5 @@ job-publish:
   script:
     - yarn install
     - yarn run build
-    - NPM_TOKEN=$(printenv TOKEN) npm publish
+    - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+    - npm publish
