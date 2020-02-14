@@ -77,6 +77,9 @@
     "error",
     "consistent"
   ],
+  "handle-callback-err": [
+    "error"
+  ],
   "id-length": [
     "warn",
     {

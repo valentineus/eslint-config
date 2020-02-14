@@ -45,7 +45,7 @@
 - [ ] "global-require"
 - [ ] "grouped-accessor-pairs"
 - [ ] "guard-for-in"
-- [ ] "handle-callback-err"
+- [X] "handle-callback-err"
 - [ ] "id-blacklist"
 - [X] "id-length"
 - [ ] "id-match"
