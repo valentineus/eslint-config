@@ -1,9 +1,9 @@
-import rComments from "./rules/eslint-comments.json";
-import rDefault from "./rules/default.json";
-import rImport from "./rules/import.json";
-import rSecurity from "./rules/security.json";
-import rSonarJS from "./rules/sonarjs.json";
-import rUnicorn from "./rules/unicorn.json";
+import rComments from "./rules/eslint-comments/default.json";
+import rDefault from "./rules/javascript/default.json";
+import rImport from "./rules/import/default.json";
+import rSecurity from "./rules/security/default.json";
+import rSonarJS from "./rules/sonarjs/default.json";
+import rUnicorn from "./rules/unicorn/default.json";
 
 module.exports = {
 	"extends": [
