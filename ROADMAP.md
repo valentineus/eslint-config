@@ -525,7 +525,7 @@
 - [ ] "array-bracket-spacing"
 - [ ] "arrow-spacing"
 - [ ] "attribute-hyphenation"
-- [ ] "attributes-order"
+- [X] "attributes-order"
 - [ ] "block-spacing"
 - [ ] "brace-style"
 - [ ] "camelcase"
