@@ -58,6 +58,16 @@
       "svg": "always"
     }
   ],
+  "vue/max-attributes-per-line": [
+    "error",
+    {
+      "multiline": {
+        "allowFirstLine": false,
+        "max": 1
+      },
+      "singleline": 8
+    }
+  ],
   "vue/script-indent": [
     "error",
     "tab",

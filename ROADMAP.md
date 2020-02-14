@@ -546,7 +546,7 @@
 - [ ] "key-spacing"
 - [ ] "keyword-spacing"
 - [ ] "match-component-file-name"
-- [ ] "max-attributes-per-line"
+- [X] "max-attributes-per-line"
 - [ ] "max-len"
 - [ ] "multiline-html-element-content-newline"
 - [ ] "mustache-interpolation-spacing"
