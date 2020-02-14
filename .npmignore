@@ -204,5 +204,6 @@ src/
 .editorconfig
 .eslintrc.json
 .gitignore
+.gitlab-ci.yml
 rollup.config.js
 tsconfig.json
