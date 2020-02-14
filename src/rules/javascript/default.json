@@ -111,7 +111,7 @@
       "MemberExpression": 1,
       "ObjectExpression": 1,
       "SwitchCase": 1,
-      "VariableDeclarator": "first",
+      "VariableDeclarator": 1,
       "flatTernaryExpressions": true,
       "ignoreComments": false,
       "ignoredNodes": [],
