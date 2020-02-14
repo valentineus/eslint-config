@@ -192,7 +192,7 @@
 - [X] "no-ternary"
 - [ ] "no-this-before-super"
 - [ ] "no-throw-literal"
-- [ ] "no-trailing-spaces"
+- [X] "no-trailing-spaces"
 - [ ] "no-undef"
 - [X] "no-undef-init"
 - [X] "no-undefined"

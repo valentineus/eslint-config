@@ -375,6 +375,13 @@
   "no-ternary": [
     "off"
   ],
+  "no-trailing-spaces": [
+    "error",
+    {
+      "ignoreComments": false,
+      "skipBlankLines": false
+    }
+  ],
   "no-undef-init": [
     "error"
   ],
