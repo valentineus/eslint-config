@@ -445,7 +445,7 @@
     "error",
     {
       "consistent": true,
-      "minProperties": 2,
+      "minProperties": 5,
       "multiline": true
     }
   ],
