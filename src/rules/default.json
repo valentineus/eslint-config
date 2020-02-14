@@ -340,6 +340,14 @@
   "no-proto": [
     "error"
   ],
+  "no-restricted-properties": [
+    "error",
+    {
+      "message": "Use the exponentiation operator (**) instead of Math.pow()",
+      "object": "Math",
+      "property": "pow"
+    }
+  ],
   "no-return-await": [
     "error"
   ],

@@ -173,7 +173,7 @@
 - [ ] "no-restricted-globals"
 - [ ] "no-restricted-imports"
 - [ ] "no-restricted-modules"
-- [ ] "no-restricted-properties"
+- [X] "no-restricted-properties"
 - [ ] "no-restricted-syntax"
 - [ ] "no-return-assign"
 - [X] "no-return-await"
