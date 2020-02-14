@@ -60,6 +60,10 @@
     {
       "detectObjects": false,
       "enforceConst": true,
+      "ignore": [
+        0,
+        1
+      ],
       "ignoreArrayIndexes": false,
       "ignoreEnums": true,
       "ignoreNumericLiteralTypes": true,
