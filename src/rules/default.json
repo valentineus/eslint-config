@@ -211,6 +211,9 @@
   "no-alert": [
     "warn"
   ],
+  "no-buffer-constructor": [
+    "error"
+  ],
   "no-caller": [
     "error"
   ],
@@ -314,6 +317,9 @@
     "error"
   ],
   "no-new-func": [
+    "error"
+  ],
+  "no-new-require": [
     "error"
   ],
   "no-new-wrappers": [
