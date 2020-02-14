@@ -397,6 +397,14 @@
       "vars": "all"
     }
   ],
+  "no-use-before-define": [
+    "error",
+    {
+      "classes": true,
+      "functions": true,
+      "variables": true
+    }
+  ],
   "no-useless-call": [
     "error"
   ],

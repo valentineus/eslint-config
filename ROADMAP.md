@@ -206,7 +206,7 @@
 - [ ] "no-unused-expressions"
 - [ ] "no-unused-labels"
 - [X] "no-unused-vars"
-- [ ] "no-use-before-define"
+- [X] "no-use-before-define"
 - [ ] "no-useless-backreference"
 - [X] "no-useless-call"
 - [ ] "no-useless-catch"
