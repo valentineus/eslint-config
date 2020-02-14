@@ -1,4 +1,14 @@
 {
+  "vue/html-indent": [
+    "error",
+    "tab",
+    {
+      "alignAttributesVertically": true,
+      "attribute": 1,
+      "baseIndent": 1,
+      "closeBracket": 0
+    }
+  ],
   "vue/script-indent": [
     "error",
     "tab",

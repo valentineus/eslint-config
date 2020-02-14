@@ -539,7 +539,7 @@
 - [ ] "html-closing-bracket-newline"
 - [ ] "html-closing-bracket-spacing"
 - [ ] "html-end-tags"
-- [ ] "html-indent"
+- [X] "html-indent"
 - [ ] "html-quotes"
 - [ ] "html-self-closing"
 - [ ] "jsx-uses-vars"
