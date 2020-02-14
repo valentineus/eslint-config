@@ -219,7 +219,7 @@
 - [X] "no-var"
 - [ ] "no-void"
 - [ ] "no-warning-comments"
-- [ ] "no-whitespace-before-property"
+- [X] "no-whitespace-before-property"
 - [X] "no-with"
 - [ ] "nonblock-statement-body-position"
 - [X] "object-curly-newline"

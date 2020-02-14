@@ -449,6 +449,9 @@
   "no-var": [
     "error"
   ],
+  "no-whitespace-before-property": [
+    "error"
+  ],
   "no-with": [
     "error"
   ],
