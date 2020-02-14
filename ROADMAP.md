@@ -540,7 +540,7 @@
 - [ ] "html-closing-bracket-spacing"
 - [ ] "html-end-tags"
 - [X] "html-indent"
-- [ ] "html-quotes"
+- [X] "html-quotes"
 - [ ] "html-self-closing"
 - [ ] "jsx-uses-vars"
 - [ ] "key-spacing"

@@ -9,6 +9,10 @@
       "closeBracket": 0
     }
   ],
+  "vue/html-quotes": [
+    "error",
+    "double"
+  ],
   "vue/script-indent": [
     "error",
     "tab",
