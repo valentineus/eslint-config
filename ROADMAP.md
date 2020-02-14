@@ -263,7 +263,7 @@
 - [X] "space-before-blocks"
 - [X] "space-before-function-paren"
 - [ ] "space-in-parens"
-- [ ] "space-infix-ops"
+- [X] "space-infix-ops"
 - [ ] "space-unary-ops"
 - [ ] "spaced-comment"
 - [X] "strict"

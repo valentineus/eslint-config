@@ -604,6 +604,12 @@
       "named": "never"
     }
   ],
+  "space-infix-ops": [
+    "error",
+    {
+      "int32Hint": false
+    }
+  ],
   "strict": [
     "error",
     "safe"
