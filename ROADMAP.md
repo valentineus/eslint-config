@@ -324,6 +324,22 @@
 - [ ] "prefer-default-export"
 - [ ] "unambiguous"
 
+## Security
+
+- [ ] "detect-buffer-noassert"
+- [ ] "detect-child-process"
+- [ ] "detect-disable-mustache-escape"
+- [ ] "detect-eval-with-expression"
+- [ ] "detect-new-buffer"
+- [ ] "detect-no-csrf-before-method-override"
+- [ ] "detect-non-literal-fs-filename"
+- [ ] "detect-non-literal-regexp"
+- [ ] "detect-non-literal-require"
+- [ ] "detect-object-injection"
+- [ ] "detect-possible-timing-attacks"
+- [ ] "detect-pseudoRandomBytes"
+- [ ] "detect-unsafe-regex"
+
 ## TypeScript
 
 - [ ] "adjacent-overload-signatures"

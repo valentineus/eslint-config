@@ -1,5 +1,6 @@
 import rDefault from "./rules/default.json";
 import rImport from "./rules/import.json";
+import rSecurity from "./rules/security.json";
 
 module.exports = {
 	"extends": [
@@ -7,10 +8,15 @@ module.exports = {
 		"plugin:import/errors",
 		"plugin:import/recommended",
 		"plugin:import/warnings",
+		"plugin:security/recommended",
 	],
-	"plugins": ["import"],
+	"plugins": [
+		"import",
+		"security",
+	],
 	"rules": {
 		...rDefault,
 		...rImport,
+		...rSecurity,
 	},
 };
