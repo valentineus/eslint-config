@@ -93,6 +93,9 @@
   "@typescript-eslint/no-useless-constructor": [
     "error"
   ],
+  "@typescript-eslint/no-var-requires": [
+    "error"
+  ],
   "@typescript-eslint/quotes": [
     "error",
     "double",
