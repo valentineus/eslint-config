@@ -161,7 +161,7 @@
 - [ ] "no-octal"
 - [X] "no-octal-escape"
 - [ ] "no-param-reassign"
-- [ ] "no-path-concat"
+- [X] "no-path-concat"
 - [ ] "no-plusplus"
 - [ ] "no-process-env"
 - [ ] "no-process-exit"

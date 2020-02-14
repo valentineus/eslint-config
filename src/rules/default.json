@@ -322,6 +322,9 @@
   "no-octal-escape": [
     "error"
   ],
+  "no-path-concat": [
+    "error"
+  ],
   "no-proto": [
     "error"
   ],
