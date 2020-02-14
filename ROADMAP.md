@@ -537,7 +537,7 @@
 - [ ] "dot-location"
 - [ ] "eqeqeq"
 - [X] "html-closing-bracket-newline"
-- [ ] "html-closing-bracket-spacing"
+- [X] "html-closing-bracket-spacing"
 - [ ] "html-end-tags"
 - [X] "html-indent"
 - [X] "html-quotes"

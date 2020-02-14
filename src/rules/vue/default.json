@@ -24,6 +24,14 @@
       "singleline": "never"
     }
   ],
+  "vue/html-closing-bracket-spacing": [
+    "error",
+    {
+      "endTag": "never",
+      "selfClosingTag": "always",
+      "startTag": "never"
+    }
+  ],
   "vue/html-indent": [
     "error",
     "tab",
