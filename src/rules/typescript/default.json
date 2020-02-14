@@ -49,6 +49,9 @@
       "ignoreRestArgs": false
     }
   ],
+  "@typescript-eslint/no-implied-eval": [
+    "error"
+  ],
   "@typescript-eslint/no-inferrable-types": [
     "off"
   ],
@@ -152,6 +155,9 @@
     }
   ],
   "indent": [
+    "off"
+  ],
+  "no-implied-eval": [
     "off"
   ],
   "no-magic-numbers": [

@@ -362,7 +362,7 @@
 - [ ] "no-extraneous-class"
 - [ ] "no-floating-promises"
 - [ ] "no-for-in-array"
-- [ ] "no-implied-eval"
+- [X] "no-implied-eval"
 - [X] "no-inferrable-types"
 - [X] "no-magic-numbers"
 - [ ] "no-misused-new"
