@@ -292,8 +292,7 @@
     }
   ],
   "no-mixed-spaces-and-tabs": [
-    "error",
-    "smart-tabs"
+    "error"
   ],
   "no-multi-spaces": [
     "error",
