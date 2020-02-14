@@ -75,5 +75,11 @@
       "baseIndent": 0,
       "switchCase": 1
     }
+  ],
+  "vue/space-infix-ops": [
+    "error",
+    {
+      "int32Hint": false
+    }
   ]
 }

@@ -593,7 +593,7 @@
 - [ ] "return-in-computed-property"
 - [X] "script-indent"
 - [ ] "singleline-html-element-content-newline"
-- [ ] "space-infix-ops"
+- [X] "space-infix-ops"
 - [ ] "space-unary-ops"
 - [ ] "static-class-names-order"
 - [ ] "this-in-template"
