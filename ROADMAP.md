@@ -281,6 +281,17 @@
 - [ ] "yield-star-spacing"
 - [X] "yoda"
 
+## ESLint Comments
+
+- [ ] "disable-enable-pair"
+- [ ] "no-aggregating-enable"
+- [ ] "no-duplicate-disable"
+- [ ] "no-restricted-disable"
+- [ ] "no-unlimited-disable"
+- [ ] "no-unused-disable"
+- [ ] "no-unused-enable"
+- [ ] "no-use"
+
 ## Import
 
 - [ ] "default"
