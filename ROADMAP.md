@@ -340,6 +340,34 @@
 - [ ] "detect-pseudoRandomBytes"
 - [ ] "detect-unsafe-regex"
 
+## SonarJS
+
+- [ ] "cognitive-complexity"
+- [ ] "max-switch-cases"
+- [ ] "no-all-duplicated-branches"
+- [ ] "no-collapsible-if"
+- [ ] "no-collection-size-mischeck"
+- [ ] "no-duplicate-string"
+- [ ] "no-duplicated-branches"
+- [ ] "no-element-overwrite"
+- [ ] "no-extra-arguments"
+- [ ] "no-identical-conditions"
+- [ ] "no-identical-expressions"
+- [ ] "no-identical-functions"
+- [ ] "no-inverted-boolean-check"
+- [ ] "no-one-iteration-loop"
+- [ ] "no-redundant-boolean"
+- [ ] "no-redundant-jump"
+- [ ] "no-same-line-conditional"
+- [ ] "no-small-switch"
+- [ ] "no-unused-collection"
+- [ ] "no-use-of-empty-return-value"
+- [ ] "no-useless-catch"
+- [ ] "prefer-immediate-return"
+- [ ] "prefer-object-literal"
+- [ ] "prefer-single-boolean-return"
+- [ ] "prefer-while"
+
 ## TypeScript
 
 - [ ] "adjacent-overload-signatures"
