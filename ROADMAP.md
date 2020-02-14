@@ -536,7 +536,7 @@
 - [ ] "component-tags-order"
 - [ ] "dot-location"
 - [ ] "eqeqeq"
-- [ ] "html-closing-bracket-newline"
+- [X] "html-closing-bracket-newline"
 - [ ] "html-closing-bracket-spacing"
 - [ ] "html-end-tags"
 - [X] "html-indent"

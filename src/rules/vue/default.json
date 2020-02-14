@@ -17,6 +17,13 @@
       ]
     }
   ],
+  "vue/html-closing-bracket-newline": [
+    "error",
+    {
+      "multiline": "always",
+      "singleline": "never"
+    }
+  ],
   "vue/html-indent": [
     "error",
     "tab",
