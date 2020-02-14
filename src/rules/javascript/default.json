@@ -465,7 +465,12 @@
   ],
   "object-shorthand": [
     "error",
-    "consistent-as-needed"
+    "always",
+    {
+      "avoidExplicitReturnArrows": true,
+      "avoidQuotes": false,
+      "ignoreConstructors": false
+    }
   ],
   "one-var": [
     "error",
