@@ -23,6 +23,9 @@
       "allowSingleLine": false
     }
   ],
+  "callback-return": [
+    "warn"
+  ],
   "camelcase": [
     "error",
     {

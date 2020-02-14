@@ -13,7 +13,7 @@
 - [ ] "block-scoped-var"
 - [ ] "block-spacing"
 - [X] "brace-style"
-- [ ] "callback-return"
+- [X] "callback-return"
 - [X] "camelcase"
 - [ ] "capitalized-comments"
 - [X] "class-methods-use-this"
