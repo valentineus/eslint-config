@@ -4,8 +4,10 @@ import typescript from "@rollup/plugin-typescript";
 
 module.exports = {
 	input: {
-		javascript: "src/javascript.ts",
-		typescript: "src/typescript.ts",
+		"javascript": "src/javascript.ts",
+		"typescript": "src/typescript.ts",
+		"vue-javascript": "src/vue-javascript.ts",
+		"vue-typescript": "src/vue-typescript.ts",
 	},
 	output: {
 		dir: ".",
