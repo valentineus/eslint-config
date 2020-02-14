@@ -1,1 +1,10 @@
-{}
+{
+  "vue/script-indent": [
+    "error",
+    "tab",
+    {
+      "baseIndent": 0,
+      "switchCase": 1
+    }
+  ]
+}

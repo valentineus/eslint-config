@@ -591,7 +591,7 @@
 - [ ] "require-v-for-key"
 - [ ] "require-valid-default-prop"
 - [ ] "return-in-computed-property"
-- [ ] "script-indent"
+- [X] "script-indent"
 - [ ] "singleline-html-element-content-newline"
 - [ ] "space-infix-ops"
 - [ ] "space-unary-ops"
