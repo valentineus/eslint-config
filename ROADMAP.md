@@ -384,7 +384,7 @@
 - [ ] "no-unused-expressions"
 - [X] "no-unused-vars"
 - [X] "no-unused-vars-experimental"
-- [ ] "no-use-before-define"
+- [X] "no-use-before-define"
 - [X] "no-useless-constructor"
 - [X] "no-var-requires"
 - [ ] "prefer-as-const"
