@@ -541,7 +541,7 @@
 - [ ] "html-end-tags"
 - [X] "html-indent"
 - [X] "html-quotes"
-- [ ] "html-self-closing"
+- [X] "html-self-closing"
 - [ ] "jsx-uses-vars"
 - [ ] "key-spacing"
 - [ ] "keyword-spacing"
