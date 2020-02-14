@@ -140,7 +140,19 @@
     }
   ],
   "@typescript-eslint/type-annotation-spacing": [
-    "error"
+    "error",
+    {
+      "overrides": {
+        "arrow": {
+          "after": true,
+          "before": true
+        },
+        "colon": {
+          "after": true,
+          "before": false
+        }
+      }
+    }
   ],
   "@typescript-eslint/typedef": [
     "error",
