@@ -70,6 +70,13 @@
       "ignoreReadonlyClassProperties": true
     }
   ],
+  "@typescript-eslint/no-misused-promises": [
+    "error",
+    {
+      "checksConditionals": true,
+      "checksVoidReturn": false
+    }
+  ],
   "@typescript-eslint/no-namespace": [
     "error",
     {

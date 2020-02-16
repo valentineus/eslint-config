@@ -421,7 +421,7 @@
 - [X] "no-inferrable-types"
 - [X] "no-magic-numbers"
 - [ ] "no-misused-new"
-- [ ] "no-misused-promises"
+- [X] "no-misused-promises"
 - [X] "no-namespace"
 - [ ] "no-non-null-asserted-optional-chain"
 - [ ] "no-non-null-assertion"
