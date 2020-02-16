@@ -5,6 +5,9 @@
       "allowWholeFile": true
     }
   ],
+  "eslint-comments/no-unused-disable": [
+    "error"
+  ],
   "eslint-comments/no-use": [
     "error",
     {

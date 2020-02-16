@@ -288,7 +288,7 @@
 - [ ] "no-duplicate-disable"
 - [ ] "no-restricted-disable"
 - [ ] "no-unlimited-disable"
-- [ ] "no-unused-disable"
+- [X] "no-unused-disable"
 - [ ] "no-unused-enable"
 - [X] "no-use"
 
