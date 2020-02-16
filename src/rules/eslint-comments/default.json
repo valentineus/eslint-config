@@ -5,6 +5,9 @@
       "allowWholeFile": true
     }
   ],
+  "eslint-comments/no-duplicate-disable": [
+    "error"
+  ],
   "eslint-comments/no-restricted-disable": [
     "off"
   ],

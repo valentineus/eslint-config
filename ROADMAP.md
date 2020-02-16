@@ -285,7 +285,7 @@
 
 - [X] "disable-enable-pair"
 - [ ] "no-aggregating-enable"
-- [ ] "no-duplicate-disable"
+- [X] "no-duplicate-disable"
 - [X] "no-restricted-disable"
 - [X] "no-unlimited-disable"
 - [X] "no-unused-disable"
