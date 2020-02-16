@@ -283,7 +283,7 @@
 
 ## ESLint Comments
 
-- [ ] "disable-enable-pair"
+- [X] "disable-enable-pair"
 - [ ] "no-aggregating-enable"
 - [ ] "no-duplicate-disable"
 - [ ] "no-restricted-disable"
