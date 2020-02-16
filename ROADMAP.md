@@ -290,7 +290,7 @@
 - [ ] "no-unlimited-disable"
 - [ ] "no-unused-disable"
 - [ ] "no-unused-enable"
-- [ ] "no-use"
+- [X] "no-use"
 
 ## Import
 

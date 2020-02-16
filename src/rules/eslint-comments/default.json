@@ -4,5 +4,21 @@
     {
       "allowWholeFile": true
     }
+  ],
+  "eslint-comments/no-use": [
+    "error",
+    {
+      "allow": [
+        "eslint",
+        "eslint-disable",
+        "eslint-disable-line",
+        "eslint-disable-next-line",
+        "eslint-enable",
+        "eslint-env",
+        "exported",
+        "global",
+        "globals"
+      ]
+    }
   ]
 }
