@@ -287,7 +287,7 @@
 - [ ] "no-aggregating-enable"
 - [ ] "no-duplicate-disable"
 - [ ] "no-restricted-disable"
-- [ ] "no-unlimited-disable"
+- [X] "no-unlimited-disable"
 - [X] "no-unused-disable"
 - [X] "no-unused-enable"
 - [X] "no-use"
