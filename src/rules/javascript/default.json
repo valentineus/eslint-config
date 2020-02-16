@@ -181,6 +181,12 @@
       "tabWidth": 4
     }
   ],
+  "no-param-reassign": [
+    "warn",
+    {
+      "props": true
+    }
+  ],
   "max-lines": [
     "off"
   ],
