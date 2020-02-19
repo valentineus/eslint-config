@@ -68,6 +68,14 @@
       "singleline": 8
     }
   ],
+  "vue/object-curly-spacing": [
+    "error",
+    "always",
+    {
+      "arraysInObjects": false,
+      "objectsInObjects": false
+    }
+  ],
   "vue/script-indent": [
     "error",
     "tab",

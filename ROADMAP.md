@@ -578,7 +578,7 @@
 - [ ] "no-unused-vars"
 - [ ] "no-use-v-if-with-v-for"
 - [ ] "no-v-html"
-- [ ] "object-curly-spacing"
+- [X] "object-curly-spacing"
 - [ ] "order-in-components"
 - [ ] "prop-name-casing"
 - [ ] "require-component-is"
