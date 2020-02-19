@@ -288,16 +288,7 @@
     "error"
   ],
   "no-magic-numbers": [
-    "warn",
-    {
-      "detectObjects": false,
-      "enforceConst": true,
-      "ignore": [
-        0,
-        1
-      ],
-      "ignoreArrayIndexes": false
-    }
+    "off"
   ],
   "no-mixed-spaces-and-tabs": [
     "error"
