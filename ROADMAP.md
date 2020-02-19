@@ -529,7 +529,7 @@
 - [ ] "block-spacing"
 - [ ] "brace-style"
 - [ ] "camelcase"
-- [ ] "comma-dangle"
+- [X] "comma-dangle"
 - [ ] "comment-directive"
 - [ ] "component-definition-name-casing"
 - [ ] "component-name-in-template-casing"

@@ -17,6 +17,10 @@
       ]
     }
   ],
+  "vue/comma-dangle": [
+    "error",
+    "always-multiline"
+  ],
   "vue/html-closing-bracket-newline": [
     "error",
     {
