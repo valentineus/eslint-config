@@ -484,7 +484,7 @@
 - [ ] "new-for-builtins"
 - [ ] "no-abusive-eslint-disable"
 - [ ] "no-array-instanceof"
-- [ ] "no-console-spaces"
+- [X] "no-console-spaces"
 - [ ] "no-fn-reference-in-iterator"
 - [ ] "no-for-loop"
 - [ ] "no-hex-escape"

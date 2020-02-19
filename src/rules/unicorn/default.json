@@ -6,6 +6,9 @@
       "pascalCase": true
     }
   ],
+  "unicorn/no-console-spaces": [
+    "error"
+  ],
   "unicorn/prevent-abbreviations": [
     "error",
     {
