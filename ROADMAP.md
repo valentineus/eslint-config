@@ -593,6 +593,7 @@
 - [ ] "return-in-computed-property"
 - [X] "script-indent"
 - [ ] "singleline-html-element-content-newline"
+- [X] "sort-keys"
 - [X] "space-infix-ops"
 - [ ] "space-unary-ops"
 - [ ] "static-class-names-order"

@@ -91,6 +91,40 @@
       "switchCase": 1
     }
   ],
+  "vue/sort-keys": [
+    "warn",
+    "asc",
+    {
+      "caseSensitive": true,
+      "ignoreChildrenOf": [
+        "model"
+      ],
+      "ignoreGrandchildrenOf": [
+        "activated",
+        "beforeCreate",
+        "beforeDestroy",
+        "beforeMount",
+        "beforeUpdate",
+        "components",
+        "computed",
+        "created",
+        "data",
+        "deactivated",
+        "destroyed",
+        "directives",
+        "errorCaptured",
+        "filters",
+        "methods",
+        "mounted",
+        "name",
+        "props",
+        "updated",
+        "watch"
+      ],
+      "minKeys": 2,
+      "natural": true
+    }
+  ],
   "vue/space-infix-ops": [
     "error",
     {
