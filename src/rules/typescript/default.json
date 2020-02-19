@@ -138,6 +138,14 @@
       "omitLastInOneLineBlock": false
     }
   ],
+  "@typescript-eslint/space-before-function-paren": [
+    "error",
+    {
+      "anonymous": "always",
+      "asyncArrow": "always",
+      "named": "never"
+    }
+  ],
   "@typescript-eslint/strict-boolean-expressions": [
     "error",
     {
@@ -198,6 +206,9 @@
     "off"
   ],
   "semi": [
+    "off"
+  ],
+  "space-before-function-paren": [
     "off"
   ]
 }

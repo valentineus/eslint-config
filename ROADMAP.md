@@ -460,7 +460,7 @@
 - [ ] "restrict-template-expressions"
 - [ ] "return-await"
 - [X] "semi"
-- [ ] "space-before-function-paren"
+- [X] "space-before-function-paren"
 - [X] "strict-boolean-expressions"
 - [ ] "switch-exhaustiveness-check"
 - [ ] "triple-slash-reference"
