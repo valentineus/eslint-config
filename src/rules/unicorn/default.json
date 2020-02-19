@@ -2,8 +2,10 @@
   "unicorn/filename-case": [
     "error",
     {
-      "kebabCase": true,
-      "pascalCase": true
+      "cases": {
+        "kebabCase": true,
+        "pascalCase": true
+      }
     }
   ],
   "unicorn/no-console-spaces": [
