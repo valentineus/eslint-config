@@ -395,7 +395,7 @@
 - [ ] "consistent-type-definitions"
 - [ ] "default-param-last"
 - [X] "explicit-function-return-type"
-- [ ] "explicit-member-accessibility"
+- [X] "explicit-member-accessibility"
 - [ ] "explicit-module-boundary-types"
 - [ ] "func-call-spacing"
 - [ ] "generic-type-naming"

@@ -17,6 +17,19 @@
       "allowTypedFunctionExpressions": false
     }
   ],
+  "@typescript-eslint/explicit-member-accessibility": [
+    "error",
+    {
+      "accessibility": "explicit",
+      "overrides": {
+        "accessors": "explicit",
+        "constructors": "explicit",
+        "methods": "explicit",
+        "parameterProperties": "explicit",
+        "properties": "explicit"
+      }
+    }
+  ],
   "@typescript-eslint/indent": [
     "error",
     "tab",
