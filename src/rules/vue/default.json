@@ -2,6 +2,7 @@
   "vue/attributes-order": [
     "error",
     {
+      "alphabetical": true,
       "order": [
         "DEFINITION",
         "LIST_RENDERING",
