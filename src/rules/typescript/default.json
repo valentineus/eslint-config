@@ -59,19 +59,7 @@
     "off"
   ],
   "@typescript-eslint/no-magic-numbers": [
-    "warn",
-    {
-      "detectObjects": false,
-      "enforceConst": true,
-      "ignore": [
-        0,
-        1
-      ],
-      "ignoreArrayIndexes": false,
-      "ignoreEnums": true,
-      "ignoreNumericLiteralTypes": true,
-      "ignoreReadonlyClassProperties": true
-    }
+    "off"
   ],
   "@typescript-eslint/no-misused-promises": [
     "error",
@@ -191,9 +179,6 @@
     "off"
   ],
   "no-implied-eval": [
-    "off"
-  ],
-  "no-magic-numbers": [
     "off"
   ],
   "no-unused-vars": [
