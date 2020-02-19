@@ -53,7 +53,7 @@
 - [X] "indent"
 - [X] "indent-legacy"
 - [ ] "init-declarations"
-- [ ] "jsx-quotes"
+- [X] "jsx-quotes"
 - [X] "key-spacing"
 - [X] "keyword-spacing"
 - [ ] "line-comment-position"

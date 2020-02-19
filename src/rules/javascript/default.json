@@ -121,6 +121,10 @@
   "indent-legacy": [
     "off"
   ],
+  "jsx-quotes": [
+    "error",
+    "prefer-double"
+  ],
   "key-spacing": [
     "error",
     {
@@ -179,12 +183,6 @@
       "ignoreTrailingComments": false,
       "ignoreUrls": true,
       "tabWidth": 4
-    }
-  ],
-  "no-param-reassign": [
-    "warn",
-    {
-      "props": true
     }
   ],
   "max-lines": [
@@ -342,6 +340,12 @@
   ],
   "no-octal-escape": [
     "error"
+  ],
+  "no-param-reassign": [
+    "warn",
+    {
+      "props": true
+    }
   ],
   "no-path-concat": [
     "error"
