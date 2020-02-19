@@ -1,1 +1,17 @@
-{}
+{
+  "unicorn/prevent-abbreviations": [
+    "error",
+    {
+      "checkDefaultAndNamespaceImports": "internal",
+      "checkFilenames": true,
+      "checkProperties": true,
+      "checkShorthandImports": "internal",
+      "checkShorthandProperties": true,
+      "checkVariables": true,
+      "extendDefaultReplacements": true,
+      "extendDefaultWhitelist": true,
+      "replacements": {},
+      "whitelist": {}
+    }
+  ]
+}

@@ -516,7 +516,7 @@
 - [ ] "prefer-text-content"
 - [ ] "prefer-trim-start-end"
 - [ ] "prefer-type-error"
-- [ ] "prevent-abbreviations"
+- [X] "prevent-abbreviations"
 - [ ] "regex-shorthand"
 - [ ] "throw-new-error"
 
