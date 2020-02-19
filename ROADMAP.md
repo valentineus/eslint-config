@@ -413,7 +413,7 @@
 - [X] "no-explicit-any"
 - [ ] "no-extra-non-null-assertion"
 - [ ] "no-extra-parens"
-- [ ] "no-extra-semi"
+- [X] "no-extra-semi"
 - [ ] "no-extraneous-class"
 - [ ] "no-floating-promises"
 - [ ] "no-for-in-array"

@@ -49,6 +49,9 @@
       "ignoreRestArgs": false
     }
   ],
+  "@typescript-eslint/no-extra-semi": [
+    "error"
+  ],
   "@typescript-eslint/no-implied-eval": [
     "error"
   ],
@@ -182,6 +185,9 @@
     }
   ],
   "indent": [
+    "off"
+  ],
+  "no-extra-semi": [
     "off"
   ],
   "no-implied-eval": [
