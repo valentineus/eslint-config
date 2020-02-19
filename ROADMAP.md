@@ -394,7 +394,7 @@
 - [ ] "consistent-type-assertions"
 - [ ] "consistent-type-definitions"
 - [ ] "default-param-last"
-- [ ] "explicit-function-return-type"
+- [X] "explicit-function-return-type"
 - [ ] "explicit-member-accessibility"
 - [ ] "explicit-module-boundary-types"
 - [ ] "func-call-spacing"
