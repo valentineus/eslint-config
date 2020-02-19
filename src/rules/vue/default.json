@@ -49,7 +49,10 @@
   ],
   "vue/html-quotes": [
     "error",
-    "double"
+    "double",
+    {
+      "avoidEscape": false
+    }
   ],
   "vue/html-self-closing": [
     "error",
