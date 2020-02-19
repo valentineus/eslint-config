@@ -163,7 +163,7 @@
 - [ ] "no-param-reassign"
 - [X] "no-path-concat"
 - [ ] "no-plusplus"
-- [ ] "no-process-env"
+- [X] "no-process-env"
 - [ ] "no-process-exit"
 - [X] "no-proto"
 - [ ] "no-prototype-builtins"

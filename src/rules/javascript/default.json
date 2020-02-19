@@ -350,6 +350,9 @@
   "no-path-concat": [
     "error"
   ],
+  "no-process-env": [
+    "off"
+  ],
   "no-proto": [
     "error"
   ],
