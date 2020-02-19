@@ -429,7 +429,7 @@
 - [ ] "no-require-imports"
 - [ ] "no-this-alias"
 - [ ] "no-throw-literal"
-- [ ] "no-type-alias"
+- [X] "no-type-alias"
 - [ ] "no-unnecessary-boolean-literal-compare"
 - [ ] "no-unnecessary-condition"
 - [ ] "no-unnecessary-qualifier"

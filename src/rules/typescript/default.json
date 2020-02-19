@@ -103,6 +103,18 @@
       "allowDefinitionFiles": true
     }
   ],
+  "@typescript-eslint/no-type-alias": [
+    "error",
+    {
+      "allowAliases": "in-unions-and-intersections",
+      "allowCallbacks": "always",
+      "allowConditionalTypes": "always",
+      "allowConstructors": "never",
+      "allowLiterals": "never",
+      "allowMappedTypes": "never",
+      "allowTupleTypes": "in-unions-and-intersections"
+    }
+  ],
   "@typescript-eslint/no-untyped-public-signature": [
     "error",
     {
