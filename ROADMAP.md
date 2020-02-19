@@ -479,7 +479,7 @@
 - [ ] "escape-case"
 - [ ] "expiring-todo-comments"
 - [ ] "explicit-length-check"
-- [ ] "filename-case"
+- [X] "filename-case"
 - [ ] "import-index"
 - [ ] "new-for-builtins"
 - [ ] "no-abusive-eslint-disable"

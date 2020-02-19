@@ -1,4 +1,11 @@
 {
+  "unicorn/filename-case": [
+    "error",
+    {
+      "kebabCase": true,
+      "pascalCase": true
+    }
+  ],
   "unicorn/prevent-abbreviations": [
     "error",
     {
