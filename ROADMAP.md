@@ -580,6 +580,7 @@
 - [ ] "no-v-html"
 - [X] "object-curly-spacing"
 - [ ] "order-in-components"
+- [X] "padding-line-between-blocks"
 - [ ] "prop-name-casing"
 - [ ] "require-component-is"
 - [ ] "require-default-prop"
