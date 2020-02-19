@@ -160,7 +160,7 @@
 - [ ] "no-obj-calls"
 - [ ] "no-octal"
 - [X] "no-octal-escape"
-- [X] "no-param-reassign"
+- [ ] "no-param-reassign"
 - [X] "no-path-concat"
 - [ ] "no-plusplus"
 - [ ] "no-process-env"
