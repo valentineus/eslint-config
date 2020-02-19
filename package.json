@@ -1,6 +1,6 @@
 {
   "name": "@valentineus/eslint-config",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Personal ESLint configuration",
   "main": "index.js",
   "repository": "git@code.valentineus.link:eslint-config.git",
