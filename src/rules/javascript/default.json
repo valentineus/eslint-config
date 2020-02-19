@@ -200,6 +200,12 @@
   "max-statements": [
     "off"
   ],
+  "max-statements-per-line": [
+    "error",
+    {
+      "max": 1
+    }
+  ],
   "multiline-comment-style": [
     "error",
     "starred-block"

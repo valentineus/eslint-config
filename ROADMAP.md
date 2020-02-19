@@ -69,7 +69,7 @@
 - [ ] "max-nested-callbacks"
 - [ ] "max-params"
 - [X] "max-statements"
-- [ ] "max-statements-per-line"
+- [X] "max-statements-per-line"
 - [X] "multiline-comment-style"
 - [ ] "multiline-ternary"
 - [X] "new-cap"
