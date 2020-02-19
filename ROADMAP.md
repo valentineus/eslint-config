@@ -575,7 +575,7 @@
 - [ ] "no-textarea-mustache"
 - [ ] "no-unsupported-features"
 - [ ] "no-unused-components"
-- [ ] "no-unused-vars"
+- [X] "no-unused-vars"
 - [ ] "no-use-v-if-with-v-for"
 - [ ] "no-v-html"
 - [X] "object-curly-spacing"
