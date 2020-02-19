@@ -2,6 +2,13 @@
   "@typescript-eslint/await-thenable": [
     "error"
   ],
+  "@typescript-eslint/comma-spacing": [
+    "error",
+    {
+      "after": true,
+      "before": false
+    }
+  ],
   "@typescript-eslint/indent": [
     "error",
     "tab",
@@ -171,6 +178,9 @@
       "propertyDeclaration": true,
       "variableDeclaration": true
     }
+  ],
+  "comma-spacing": [
+    "off"
   ],
   "indent": [
     "off"

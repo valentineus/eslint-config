@@ -390,7 +390,7 @@
 - [ ] "brace-style"
 - [ ] "camelcase"
 - [ ] "class-name-casing"
-- [ ] "comma-spacing"
+- [X] "comma-spacing"
 - [ ] "consistent-type-assertions"
 - [ ] "consistent-type-definitions"
 - [ ] "default-param-last"
