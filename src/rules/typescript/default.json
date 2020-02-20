@@ -116,7 +116,7 @@
     }
   ],
   "@typescript-eslint/no-untyped-public-signature": [
-    "error",
+    "warn",
     {
       "ignoredMethods": [
         "constructor"
