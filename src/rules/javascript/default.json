@@ -177,6 +177,7 @@
       "code": 180,
       "comments": 72,
       "ignoreComments": false,
+      "ignorePattern": "eslint*",
       "ignoreRegExpLiterals": false,
       "ignoreStrings": true,
       "ignoreTemplateLiterals": true,
