@@ -65,7 +65,7 @@
   "sonarjs/no-useless-catch": [
     "warn"
   ],
-  "sonarjs/please-immediate-return": [
+  "sonarjs/prefer-immediate-return": [
     "error"
   ],
   "sonarjs/prefer-object-literal": [
