@@ -331,7 +331,7 @@
 - [ ] "no-unused-modules"
 - [ ] "no-useless-path-segments"
 - [X] "no-webpack-loader-syntax"
-- [ ] "order"
+- [X] "order"
 - [ ] "prefer-default-export"
 - [ ] "unambiguous"
 
