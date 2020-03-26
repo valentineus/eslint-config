@@ -1,6 +1,6 @@
 import rComments from "./rules/eslint-comments/default.json";
-import rDefault from "./rules/javascript/default.json";
 import rImport from "./rules/import/default.json";
+import rDefault from "./rules/javascript/default.json";
 import rSecurity from "./rules/security/default.json";
 import rSonarJS from "./rules/sonarjs/default.json";
 import rUnicorn from "./rules/unicorn/default.json";

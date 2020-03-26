@@ -9,6 +9,9 @@ module.exports = {
 		"plugin:import/typescript",
 	],
 	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		createDefaultProgram: true,
+	},
 	"plugins": [
 		"@typescript-eslint",
 	],
