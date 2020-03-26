@@ -11,6 +11,12 @@
   "unicorn/no-console-spaces": [
     "error"
   ],
+  "unicorn/prefer-number-properties": [
+    "error"
+  ],
+  "unicorn/prefer-set-has": [
+    "error"
+  ],
   "unicorn/prevent-abbreviations": [
     "error",
     {
@@ -25,5 +31,8 @@
       "replacements": {},
       "whitelist": {}
     }
+  ],
+  "unicorn/string-content": [
+    "error"
   ]
 }

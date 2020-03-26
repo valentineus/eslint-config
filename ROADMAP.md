@@ -507,9 +507,11 @@
 - [ ] "prefer-negative-index"
 - [ ] "prefer-node-append"
 - [ ] "prefer-node-remove"
+- [X] "prefer-number-properties"
 - [ ] "prefer-query-selector"
 - [ ] "prefer-reflect-apply"
 - [ ] "prefer-replace-all"
+- [X] "prefer-set-has"
 - [ ] "prefer-spread"
 - [ ] "prefer-starts-ends-with"
 - [ ] "prefer-string-slice"
@@ -517,7 +519,6 @@
 - [ ] "prefer-trim-start-end"
 - [ ] "prefer-type-error"
 - [X] "prevent-abbreviations"
-- [ ] "regex-shorthand"
 - [ ] "throw-new-error"
 
 ## Vue
