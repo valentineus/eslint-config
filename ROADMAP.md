@@ -486,7 +486,7 @@
 - [ ] "expiring-todo-comments"
 - [ ] "explicit-length-check"
 - [X] "filename-case"
-- [ ] "import-index"
+- [X] "import-index"
 - [ ] "new-for-builtins"
 - [ ] "no-abusive-eslint-disable"
 - [ ] "no-array-instanceof"

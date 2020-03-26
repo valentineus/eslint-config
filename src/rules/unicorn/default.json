@@ -8,6 +8,12 @@
       }
     }
   ],
+  "unicorn/import-index": [
+    "error",
+    {
+      "ignoreImports": true
+    }
+  ],
   "unicorn/no-console-spaces": [
     "error"
   ],
