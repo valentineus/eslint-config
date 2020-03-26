@@ -203,7 +203,7 @@ src/
 # Configuration file
 .editorconfig
 .eslintrc.json
+.github/
 .gitignore
-.gitlab-ci.yml
 rollup.config.js
 tsconfig.json
