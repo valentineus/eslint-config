@@ -7,6 +7,9 @@
 	<a href="https://www.npmjs.com/package/@valentineus/eslint-config">
 		<img src="https://flat.badgen.net/npm/v/@valentineus/eslint-config" />
 	</a>
+	<a href="https://www.npmjs.com/package/@valentineus/eslint-config">
+		<img src="https://flat.badgen.net/packagephobia/install/@valentineus/eslint-config" />
+	</a>
 	<a href="https://github.com/valentineus/eslint-config">
 		<img src="https://flat.badgen.net/github/last-commit/valentineus/eslint-config" />
 	</a>
