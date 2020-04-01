@@ -1,4 +1,19 @@
-# Personal ESLint configuration
+<p align="center">
+	<img height="60px" width="60px" src="https://eslint.org/assets/img/favicon.512x512.png" />
+	<h1 align="center">Personal ESLint configuration</h1>
+</p>
+
+<p align="center">
+	<a href="https://www.npmjs.com/package/@valentineus/eslint-config">
+		<img src="https://flat.badgen.net/npm/v/@valentineus/eslint-config" />
+	</a>
+	<a href="https://www.npmjs.com/package/@valentineus/eslint-config">
+		<img src="https://flat.badgen.net/packagephobia/install/@valentineus/eslint-config" />
+	</a>
+	<a href="https://github.com/valentineus/eslint-config">
+		<img src="https://flat.badgen.net/github/last-commit/valentineus/eslint-config" />
+	</a>
+</p>
 
 ## Configurations
 
