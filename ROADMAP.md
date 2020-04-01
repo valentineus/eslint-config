@@ -568,7 +568,7 @@
 - [ ] "no-duplicate-attributes"
 - [ ] "no-empty-pattern"
 - [ ] "no-irregular-whitespace"
-- [ ] "no-multi-spaces"
+- [X] "no-multi-spaces"
 - [ ] "no-parsing-error"
 - [ ] "no-reserved-component-names"
 - [ ] "no-reserved-keys"
