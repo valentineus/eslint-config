@@ -222,7 +222,7 @@
     "error",
     {
       "after": true,
-      "before": true,
+      "before": false,
       "overrides": {
         "arrow": {
           "after": true,
@@ -234,19 +234,19 @@
         },
         "parameter": {
           "after": true,
-          "before": true
+          "before": false
         },
         "property": {
           "after": true,
-          "before": true
+          "before": false
         },
         "returnType": {
           "after": true,
-          "before": true
+          "before": false
         },
         "variable": {
           "after": true,
-          "before": true
+          "before": false
         }
       }
     }
