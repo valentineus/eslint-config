@@ -76,6 +76,12 @@
       "singleline": 8
     }
   ],
+  "vue/no-multi-spaces": [
+    "error",
+    {
+      "ignoreProperties": false
+    }
+  ],
   "vue/no-unused-vars": [
     "error"
   ],
