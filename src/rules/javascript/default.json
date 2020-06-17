@@ -2,7 +2,8 @@
   "array-callback-return": [
     "error",
     {
-      "allowImplicit": false
+      "allowImplicit": false,
+      "checkForEach": true
     }
   ],
   "arrow-parens": [
@@ -22,9 +23,6 @@
     {
       "allowSingleLine": false
     }
-  ],
-  "callback-return": [
-    "warn"
   ],
   "camelcase": [
     "error",
@@ -53,10 +51,7 @@
   ],
   "comma-style": [
     "error",
-    "last",
-    {
-      "exceptions": {}
-    }
+    "last"
   ],
   "curly": [
     "error",
@@ -79,9 +74,6 @@
   "function-call-argument-newline": [
     "error",
     "consistent"
-  ],
-  "handle-callback-err": [
-    "error"
   ],
   "id-length": [
     "warn",
@@ -115,6 +107,7 @@
       "flatTernaryExpressions": true,
       "ignoreComments": false,
       "ignoredNodes": [],
+      "offsetTernaryExpressions": 1,
       "outerIIFEBody": 1
     }
   ],
@@ -330,9 +323,6 @@
   "no-new-func": [
     "error"
   ],
-  "no-new-require": [
-    "error"
-  ],
   "no-new-wrappers": [
     "error"
   ],
@@ -344,12 +334,6 @@
     {
       "props": true
     }
-  ],
-  "no-path-concat": [
-    "error"
-  ],
-  "no-process-env": [
-    "off"
   ],
   "no-proto": [
     "error"
@@ -469,8 +453,24 @@
   "object-curly-newline": [
     "error",
     {
+      "ExportDeclaration": {
+        "consistent": true,
+        "minProperties": 1,
+        "multiline": true
+      },
+      "ImportDeclaration": "never",
+      "ObjectExpression": {
+        "consistent": true,
+        "minProperties": 1,
+        "multiline": true
+      },
+      "ObjectPattern": {
+        "consistent": true,
+        "minProperties": 1,
+        "multiline": true
+      },
       "consistent": true,
-      "minProperties": 5,
+      "minProperties": 1,
       "multiline": true
     }
   ],
