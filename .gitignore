@@ -198,9 +198,5 @@ $RECYCLE.BIN/
 ### Project ###
 
 # Resulting code
-/_tslib-*.js
-/default-*.js
-/javascript.js
-/typescript.js
-/vue-javascript.js
-/vue-typescript.js
+/*.js
+

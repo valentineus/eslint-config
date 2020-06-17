@@ -1,6 +1,6 @@
-import { terser } from "rollup-plugin-terser";
 import json from "@rollup/plugin-json";
 import typescript from "@rollup/plugin-typescript";
+import { terser } from "rollup-plugin-terser";
 
 module.exports = {
 	input: {
@@ -25,7 +25,6 @@ module.exports = {
 			output: {
 				comments: false,
 			},
-			sourcemap: false,
 		}),
 	],
 };
