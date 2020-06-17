@@ -14,7 +14,9 @@ module.exports = {
 			files: [
 				"*.vue",
 			],
-			rules: { ...rOverrides },
+			rules: {
+				...rOverrides,
+			},
 		},
 	],
 	"parser": "vue-eslint-parser",
@@ -26,5 +28,7 @@ module.exports = {
 		parser: "@typescript-eslint/parser",
 	},
 	"plugins": ["vue"],
-	"rules": { ...rDefault },
+	"rules": {
+		...rDefault,
+	},
 };

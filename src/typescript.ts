@@ -14,5 +14,7 @@ module.exports = {
 	"plugins": [
 		"@typescript-eslint",
 	],
-	"rules": { ...rDefault },
+	"rules": {
+		...rDefault,
+	},
 };
