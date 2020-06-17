@@ -282,6 +282,7 @@
 - [X] "no-unused-disable"
 - [X] "no-unused-enable"
 - [X] "no-use"
+- [ ] "require-description"
 
 ## Import
 
@@ -494,13 +495,17 @@
 - [ ] "no-keyword-prefix"
 - [ ] "no-nested-ternary"
 - [ ] "no-new-buffer"
+- [ ] "no-null"
 - [ ] "no-process-exit"
+- [ ] "no-reduce"
 - [ ] "no-unreadable-array-destructuring"
 - [ ] "no-unsafe-regex"
 - [ ] "no-unused-properties"
+- [ ] "no-useless-undefined"
 - [ ] "no-zero-fractions"
 - [ ] "number-literal-case"
 - [ ] "prefer-add-event-listener"
+- [ ] "prefer-array-find"
 - [ ] "prefer-dataset"
 - [ ] "prefer-event-key"
 - [ ] "prefer-exponentiation-operator"
@@ -511,6 +516,7 @@
 - [ ] "prefer-node-append"
 - [ ] "prefer-node-remove"
 - [X] "prefer-number-properties"
+- [ ] "prefer-optional-catch-binding"
 - [ ] "prefer-query-selector"
 - [ ] "prefer-reflect-apply"
 - [ ] "prefer-replace-all"
@@ -522,6 +528,7 @@
 - [ ] "prefer-trim-start-end"
 - [ ] "prefer-type-error"
 - [X] "prevent-abbreviations"
+- [ ] "string-content"
 - [ ] "throw-new-error"
 
 ## Vue
