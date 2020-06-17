@@ -106,8 +106,7 @@
       "VariableDeclarator": 1,
       "flatTernaryExpressions": true,
       "ignoreComments": false,
-      "ignoredNodes": [],
-      "offsetTernaryExpressions": 1,
+      "offsetTernaryExpressions": true,
       "outerIIFEBody": 1
     }
   ],
@@ -468,10 +467,7 @@
         "consistent": true,
         "minProperties": 1,
         "multiline": true
-      },
-      "consistent": true,
-      "minProperties": 1,
-      "multiline": true
+      }
     }
   ],
   "object-curly-spacing": [
