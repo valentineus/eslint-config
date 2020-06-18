@@ -197,6 +197,10 @@ $RECYCLE.BIN/
 
 ### Project ###
 
+# Documentation
+
+docs/
+
 # Source code
 src/
 
