@@ -133,7 +133,7 @@
     "error"
   ],
   "@typescript-eslint/no-unsafe-member-access": [
-    "error"
+    "warn"
   ],
   "@typescript-eslint/no-unsafe-return": [
     "error"
@@ -167,7 +167,7 @@
     "error"
   ],
   "@typescript-eslint/prefer-readonly-parameter-types": [
-    "error",
+    "warn",
     {
       "checkParameterProperties": true
     }
