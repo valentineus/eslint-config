@@ -1,4 +1,4 @@
 # React Hooks
 
-- [ ] "exhaustive-deps"
-- [ ] "rules-of-hooks"
+- [X] "exhaustive-deps"
+- [X] "rules-of-hooks"
