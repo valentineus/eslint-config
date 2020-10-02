@@ -454,18 +454,18 @@
     {
       "ExportDeclaration": {
         "consistent": true,
-        "minProperties": 1,
+        "minProperties": 5,
         "multiline": true
       },
       "ImportDeclaration": "never",
       "ObjectExpression": {
         "consistent": true,
-        "minProperties": 1,
+        "minProperties": 5,
         "multiline": true
       },
       "ObjectPattern": {
         "consistent": true,
-        "minProperties": 1,
+        "minProperties": 5,
         "multiline": true
       }
     }

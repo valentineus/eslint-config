@@ -19,6 +19,8 @@
 
 * `javascript`
 * `typescript`
+* `react-javascript`
+* `react-typescript`
 * `vue-javascript`
 * `vue-typescript`
 
@@ -27,16 +29,34 @@
 * Install dependencies:
 
 ```shell script
-npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser         \
-                       @valentineus/eslint-config eslint eslint-plugin-eslint-comments    \
-                       eslint-plugin-import eslint-plugin-security eslint-plugin-sonarjs  \
-                       eslint-plugin-unicorn eslint-plugin-vue
+npm install --save-dev @typescript-eslint/eslint-plugin \
+                       @typescript-eslint/parser \
+                       @valentineus/eslint-config \
+                       eslint \
+                       eslint-plugin-eslint-comments \
+                       eslint-plugin-import \
+                       eslint-plugin-jsx-a11y \
+                       eslint-plugin-react \
+                       eslint-plugin-react-hooks \
+                       eslint-plugin-security \
+                       eslint-plugin-sonarjs \
+                       eslint-plugin-unicorn \
+                       eslint-plugin-vue
  
 # or
-yarn add --dev @typescript-eslint/eslint-plugin @typescript-eslint/parser         \
-               @valentineus/eslint-config eslint eslint-plugin-eslint-comments    \
-               eslint-plugin-import eslint-plugin-security eslint-plugin-sonarjs  \
-               eslint-plugin-unicorn eslint-plugin-vue
+yarn add --dev @typescript-eslint/eslint-plugin \
+               @typescript-eslint/parser \
+               @valentineus/eslint-config \
+               eslint \
+               eslint-plugin-eslint-comments \
+               eslint-plugin-import \
+               eslint-plugin-jsx-a11y \
+               eslint-plugin-react \
+               eslint-plugin-react-hooks \
+               eslint-plugin-security \
+               eslint-plugin-sonarjs \
+               eslint-plugin-unicorn \
+               eslint-plugin-vue
 ```
 
 * Create config file:

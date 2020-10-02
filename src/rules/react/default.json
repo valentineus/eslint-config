@@ -1,0 +1,16 @@
+{
+  "react/jsx-boolean-value": [
+    "error",
+    "always"
+  ],
+  "react/jsx-fragments": [
+    "error",
+    "element"
+  ],
+  "react/no-unused-prop-types": [
+    "warn",
+    {
+      "skipShapeProps": false
+    }
+  ]
+}
